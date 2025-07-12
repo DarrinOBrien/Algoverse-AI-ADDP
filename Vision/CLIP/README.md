@@ -22,3 +22,8 @@ Binary classification was only done for the MNIST dataset. Findings:
 Entire Dataset Generalization Done for MNIST. Findings:
 - Both Affine and Transformation Matrix are nearly identicle. Translation Vector is Random.
 - Focus on Transformation Matrix only for little difference in accuracy compared to Affine
+
+Base->Fine vs Fine->Fine
+
+- Base->Fine is taking the embedding/cls from the base model's layers {1,2,3,4...,last} to the fine-tuned model's last layer. It then applys the transformation matrix W onto the respective layer.
+- Fine->Fine is taking the embedding/cls from the fine-tuned model's layers {1,2,3,4,...,last-1} to the fine-tuned model's last layer. It then applys the transformation matrix W onto the base model's respective layer. 
