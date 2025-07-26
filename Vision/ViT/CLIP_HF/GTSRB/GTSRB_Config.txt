@@ -1,0 +1,4 @@
+num_classes = 43
+dataset_name = "GTSRB"
+size_nums = [i for i in range(2, 31, 2)] # Start from 2,4,6,...->30. 15 total.
+size_nums.extend([1, 70, 140, 280, 372, 465, float("inf")]) # 22 total. range(22)
