@@ -8,16 +8,19 @@ size_nums.append(float('inf')) #29. do range(29)
 
 # Fine-Tuning Results
 # Trained 20 EPOCHS; 0-19
-# [Epoch 3] Train Loss: 0.0957 | Validation Loss: 0.1900 | Validation Accuracy: 0.9505
-# Average base loss: 2.7895, Base Accuracy: 0.0773
-# Average best loss: 0.1292, Best Accuracy: 0.9668
+# [Epoch 3] Train Loss: 0.0960 | Validation Loss: 0.1919 | Validation Accuracy: 0.9512
+# Average base loss: 2.5075, Base Accuracy: 0.0706
+# Average best loss: 0.1317, Best Accuracy: 0.9662
 
 # Linear Probe Results
 # Trained 20 EPOCHS; 0-19
-# [Epoch 16] Train Loss: 1.0755 | Validation Loss: 1.1386 | Validation Accuracy: 0.6173
-# Average base loss: 2.3879, Base Accuracy: 0.1217
-# Average best loss: 1.0307, Best Accuracy: 0.6543
+# [Epoch 17] Train Loss: 1.0726 | Validation Loss: 1.1352 | Validation Accuracy: 0.6200
+# Average base loss: 2.4184, Base Accuracy: 0.0969
+# Average best loss: 1.0309, Best Accuracy: 0.6546
 
 # Best Augmented Accuracy
 # CLIP_ViT_Vision - SVHN: Base_Fine_Tuned
-# Best Accuracy: 0.6467808851 | Number of training images: 73257 | Transformation Layer (0-11): 8
+# CLIP_ViT_Vision - SVHN: Base_Fine_Tuned
+# Best Accuracy: 0.6726336816 | Number of training images: 58605 | Transformation Layer (0-11): 8
+# CLIP_ViT_Vision - SVHN: Fine_Tuned_Layer_Skipping
+# Best Accuracy: 0.9664259373 | Number of training images: 350 | Transformation Layer (0-11): 11

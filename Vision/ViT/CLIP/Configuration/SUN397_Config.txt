@@ -21,3 +21,5 @@ size_nums.append(float('inf')) # 26 total. range(26)
 # Best Augmented Accuracy
 # CLIP_ViT_Vision - SUN397: Base_Fine_Tuned
 # Best Accuracy: 0.7444332494 | Number of training images: 9925 | Transformation Layer (0-11): 11
+# CLIP_ViT_Vision - SUN397: Fine_Tuned_Layer_Skipping
+# Best Accuracy: 0.7391435768 | Number of training images: 794 | Transformation Layer (0-11): 11

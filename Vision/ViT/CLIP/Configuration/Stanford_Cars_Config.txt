@@ -22,3 +22,5 @@ size_nums.append(float('inf')) # 40. range(40)
 # Best Augmented Accuracy
 # CLIP_ViT_Vision - Stanford_Cars: Base_Fine_Tuned
 # Best Accuracy: 0.7981594329 | Number of training images: 6173 | Transformation Layer (0-11): 11
+# CLIP_ViT_Vision - Stanford_Cars: Fine_Tuned_Layer_Skipping
+# Best Accuracy: 0.8313642582 | Number of training images: 784 | Transformation Layer (0-11): 11

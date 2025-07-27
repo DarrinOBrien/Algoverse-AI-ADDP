@@ -21,3 +21,5 @@ size_nums.extend([1, 100, 150, 200, 250, 300, float('inf')])
 # Best Augmented Accuracy
 # CLIP_ViT_Vision - RESISC45: Base_Fine_Tuned
 # Best Accuracy: 0.9025396825 | Number of training images: 15120 | Transformation Layer (0-11): 11
+# CLIP_ViT_Vision - RESISC45: Fine_Tuned_Layer_Skipping
+# Best Accuracy: 0.9342857143000001 | Number of training images: 900 | Transformation Layer (0-11): 11

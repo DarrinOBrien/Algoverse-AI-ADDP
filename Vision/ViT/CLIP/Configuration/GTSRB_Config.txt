@@ -20,3 +20,5 @@ size_nums.extend([1, 70, 140, 280, 372, 465, float("inf")]) # 22 total. range(22
 # Best Augmented Accuracy
 # CLIP_ViT_Vision - GTSRB: Base_Fine_Tuned
 # Best Accuracy: 0.8480601742 | Number of training images: 12092 | Transformation Layer (0-11): 11
+# CLIP_ViT_Vision - GTSRB: Fine_Tuned_Layer_Skipping
+# Best Accuracy: 0.9810768013000001 | Number of training images: 774 | Transformation Layer (0-11): 11

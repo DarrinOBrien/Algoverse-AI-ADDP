@@ -1,7 +1,7 @@
 [
   {
-    "Classification_Accuracy":0.1071373694,
-    "CLS_Cosine_Similarity":0.2520805964,
+    "Classification_Accuracy":0.104563614,
+    "CLS_Cosine_Similarity":0.1791666528,
     "Train_Data_Size":[
       650,
       650,
@@ -56,8 +56,8 @@
     ]
   },
   {
-    "Classification_Accuracy":0.1303779963,
-    "CLS_Cosine_Similarity":0.3085439964,
+    "Classification_Accuracy":0.1256530424,
+    "CLS_Cosine_Similarity":0.2324893095,
     "Train_Data_Size":[
       650,
       650,
@@ -112,8 +112,8 @@
     ]
   },
   {
-    "Classification_Accuracy":0.1483558697,
-    "CLS_Cosine_Similarity":0.349548421,
+    "Classification_Accuracy":0.1470881991,
+    "CLS_Cosine_Similarity":0.2823726293,
     "Train_Data_Size":[
       650,
       650,
@@ -168,8 +168,8 @@
     ]
   },
   {
-    "Classification_Accuracy":0.144552858,
-    "CLS_Cosine_Similarity":0.3359647598,
+    "Classification_Accuracy":0.1473186847,
+    "CLS_Cosine_Similarity":0.2567533605,
     "Train_Data_Size":[
       650,
       650,
@@ -224,8 +224,8 @@
     ]
   },
   {
-    "Classification_Accuracy":0.1856177013,
-    "CLS_Cosine_Similarity":0.3792836662,
+    "Classification_Accuracy":0.188690842,
+    "CLS_Cosine_Similarity":0.3153950074,
     "Train_Data_Size":[
       650,
       650,
@@ -280,8 +280,8 @@
     ]
   },
   {
-    "Classification_Accuracy":0.1634910879,
-    "CLS_Cosine_Similarity":0.3622764292,
+    "Classification_Accuracy":0.1668715427,
+    "CLS_Cosine_Similarity":0.2937506584,
     "Train_Data_Size":[
       650,
       650,
@@ -336,8 +336,8 @@
     ]
   },
   {
-    "Classification_Accuracy":0.1757068224,
-    "CLS_Cosine_Similarity":0.3773200436,
+    "Classification_Accuracy":0.1815073755,
+    "CLS_Cosine_Similarity":0.3109387065,
     "Train_Data_Size":[
       650,
       650,
@@ -392,8 +392,8 @@
     ]
   },
   {
-    "Classification_Accuracy":0.1892286417,
-    "CLS_Cosine_Similarity":0.381067554,
+    "Classification_Accuracy":0.1964505224,
+    "CLS_Cosine_Similarity":0.3190665119,
     "Train_Data_Size":[
       650,
       650,
@@ -448,8 +448,8 @@
     ]
   },
   {
-    "Classification_Accuracy":0.1871542717,
-    "CLS_Cosine_Similarity":0.3918871946,
+    "Classification_Accuracy":0.1992931776,
+    "CLS_Cosine_Similarity":0.3271135309,
     "Train_Data_Size":[
       650,
       650,
@@ -504,8 +504,8 @@
     ]
   },
   {
-    "Classification_Accuracy":0.2015980332,
-    "CLS_Cosine_Similarity":0.4096165124,
+    "Classification_Accuracy":0.2056315304,
+    "CLS_Cosine_Similarity":0.3405592004,
     "Train_Data_Size":[
       650,
       650,
@@ -560,8 +560,8 @@
     ]
   },
   {
-    "Classification_Accuracy":0.1773970498,
-    "CLS_Cosine_Similarity":0.3823051289,
+    "Classification_Accuracy":0.1853488015,
+    "CLS_Cosine_Similarity":0.3142865309,
     "Train_Data_Size":[
       650,
       650,
@@ -616,8 +616,8 @@
     ]
   },
   {
-    "Classification_Accuracy":0.1964889367,
-    "CLS_Cosine_Similarity":0.3970408989,
+    "Classification_Accuracy":0.2063998156,
+    "CLS_Cosine_Similarity":0.335910704,
     "Train_Data_Size":[
       650,
       650,

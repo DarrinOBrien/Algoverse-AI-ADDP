@@ -1,50 +1,50 @@
 [
   {
     "Classification_Accuracy":0.0637676706,
-    "CLS_Cosine_Similarity":0.0477873339
+    "CLS_Cosine_Similarity":0.0636637826
   },
   {
     "Classification_Accuracy":0.0637676706,
-    "CLS_Cosine_Similarity":0.0372363345
+    "CLS_Cosine_Similarity":0.1069725914
   },
   {
     "Classification_Accuracy":0.0637676706,
-    "CLS_Cosine_Similarity":-0.0034067677
+    "CLS_Cosine_Similarity":0.1490274093
   },
   {
     "Classification_Accuracy":0.0637676706,
-    "CLS_Cosine_Similarity":0.0039421294
+    "CLS_Cosine_Similarity":0.1709044698
   },
   {
     "Classification_Accuracy":0.0637676706,
-    "CLS_Cosine_Similarity":0.0127242586
+    "CLS_Cosine_Similarity":0.1776725991
   },
   {
     "Classification_Accuracy":0.0637676706,
-    "CLS_Cosine_Similarity":-0.0013987716
+    "CLS_Cosine_Similarity":0.19640353
   },
   {
     "Classification_Accuracy":0.0637676706,
-    "CLS_Cosine_Similarity":-0.0203572613
+    "CLS_Cosine_Similarity":0.236765859
   },
   {
-    "Classification_Accuracy":0.0646896128,
-    "CLS_Cosine_Similarity":-0.0719114909
+    "Classification_Accuracy":0.0640749846,
+    "CLS_Cosine_Similarity":0.275160398
   },
   {
-    "Classification_Accuracy":0.1007221881,
-    "CLS_Cosine_Similarity":-0.1892431359
+    "Classification_Accuracy":0.0903119238,
+    "CLS_Cosine_Similarity":0.3439677277
   },
   {
-    "Classification_Accuracy":0.0875845114,
-    "CLS_Cosine_Similarity":-0.1947597612
+    "Classification_Accuracy":0.0940765212,
+    "CLS_Cosine_Similarity":0.3568885463
   },
   {
-    "Classification_Accuracy":0.1036032575,
-    "CLS_Cosine_Similarity":-0.2073101436
+    "Classification_Accuracy":0.1145129072,
+    "CLS_Cosine_Similarity":0.385511284
   },
   {
-    "Classification_Accuracy":0.6542716656,
-    "CLS_Cosine_Similarity":0.1814727268
+    "Classification_Accuracy":0.654617394,
+    "CLS_Cosine_Similarity":0.2049745464
   }
 ]

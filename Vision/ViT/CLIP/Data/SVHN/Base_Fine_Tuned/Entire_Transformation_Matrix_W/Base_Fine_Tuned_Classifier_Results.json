@@ -1,50 +1,50 @@
 [
   {
-    "Classification_Accuracy":0.0956515058,
-    "CLS_Cosine_Similarity":0.0477873339
+    "Classification_Accuracy":0.1958743085,
+    "CLS_Cosine_Similarity":0.0636637826
   },
   {
-    "Classification_Accuracy":0.0915795943,
-    "CLS_Cosine_Similarity":0.0372363345
+    "Classification_Accuracy":0.1958743085,
+    "CLS_Cosine_Similarity":0.1069725914
   },
   {
-    "Classification_Accuracy":0.1954133374,
-    "CLS_Cosine_Similarity":-0.0034067677
+    "Classification_Accuracy":0.1958743085,
+    "CLS_Cosine_Similarity":0.1490274093
   },
   {
-    "Classification_Accuracy":0.0968807621,
-    "CLS_Cosine_Similarity":0.0039421294
+    "Classification_Accuracy":0.1958743085,
+    "CLS_Cosine_Similarity":0.1709044698
   },
   {
-    "Classification_Accuracy":0.0969191764,
-    "CLS_Cosine_Similarity":0.0127242586
+    "Classification_Accuracy":0.1958743085,
+    "CLS_Cosine_Similarity":0.1776725991
   },
   {
-    "Classification_Accuracy":0.1035648433,
-    "CLS_Cosine_Similarity":-0.0013987716
+    "Classification_Accuracy":0.1943377382,
+    "CLS_Cosine_Similarity":0.19640353
   },
   {
-    "Classification_Accuracy":0.0796711739,
-    "CLS_Cosine_Similarity":-0.0203572613
+    "Classification_Accuracy":0.1958743085,
+    "CLS_Cosine_Similarity":0.236765859
   },
   {
-    "Classification_Accuracy":0.0782114321,
-    "CLS_Cosine_Similarity":-0.0719114909
+    "Classification_Accuracy":0.1959127228,
+    "CLS_Cosine_Similarity":0.275160398
   },
   {
-    "Classification_Accuracy":0.0758681623,
-    "CLS_Cosine_Similarity":-0.1892431359
+    "Classification_Accuracy":0.1889213276,
+    "CLS_Cosine_Similarity":0.3439677277
   },
   {
-    "Classification_Accuracy":0.1363706208,
-    "CLS_Cosine_Similarity":-0.1947597612
+    "Classification_Accuracy":0.081015673,
+    "CLS_Cosine_Similarity":0.3568885463
   },
   {
-    "Classification_Accuracy":0.1629917025,
-    "CLS_Cosine_Similarity":-0.2073101436
+    "Classification_Accuracy":0.1614935464,
+    "CLS_Cosine_Similarity":0.385511284
   },
   {
-    "Classification_Accuracy":0.2455823602,
-    "CLS_Cosine_Similarity":0.1814727268
+    "Classification_Accuracy":0.2052089736,
+    "CLS_Cosine_Similarity":0.2049745464
   }
 ]

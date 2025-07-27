@@ -24,3 +24,5 @@ size_nums.append(1200) # 41
 # Best Augmented Accuracy:
 # CLIP_ViT_Vision - EuroSAT: Base_Fine_Tuned
 # Best Accuracy: 0.9655555556000001 | Number of training images: 17280 | Transformation Layer (0-11): 6
+# CLIP_ViT_Vision - EuroSAT: Fine_Tuned_Layer_Skipping
+# Best Accuracy: 0.9866666667 | Number of training images: 10 | Transformation Layer (0-11): 11

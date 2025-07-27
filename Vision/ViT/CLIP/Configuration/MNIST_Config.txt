@@ -21,3 +21,5 @@ size_nums.insert(0, float('inf'))
 # Best Augmented Accuracy
 # CLIP_ViT_Vision - MNIST: Base_Fine_Tuned
 # Best Accuracy: 0.9891000000000001 | Number of training images: 48000 | Transformation Layer (0-11): 7
+# CLIP_ViT_Vision - MNIST: Fine_Tuned_Layer_Skipping
+# Best Accuracy: 0.9949 | Number of training images: 10 | Transformation Layer (0-11): 11
