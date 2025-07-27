@@ -1,0 +1,23 @@
+dataset = load_dataset("ufldl-stanford/svhn", "cropped_digits", cache_dir="/workspace/.hf_cache") # https://huggingface.co/datasets/ufldl-stanford/svhn
+num_classes = 10
+dataset_name = "SVHN"
+size_nums = [i for i in range(5, 260, 10)] #26
+size_nums.insert(0, 1) # 27
+size_nums.append(260) # 28 range(29)
+size_nums.append(float('inf')) #29. do range(29)
+
+# Fine-Tuning Results
+# Trained 20 EPOCHS; 0-19
+# [Epoch 3] Train Loss: 0.0957 | Validation Loss: 0.1900 | Validation Accuracy: 0.9505
+# Average base loss: 2.7895, Base Accuracy: 0.0773
+# Average best loss: 0.1292, Best Accuracy: 0.9668
+
+# Linear Probe Results
+# Trained 20 EPOCHS; 0-19
+# [Epoch 16] Train Loss: 1.0755 | Validation Loss: 1.1386 | Validation Accuracy: 0.6173
+# Average base loss: 2.3879, Base Accuracy: 0.1217
+# Average best loss: 1.0307, Best Accuracy: 0.6543
+
+# Best Augmented Accuracy
+# CLIP_ViT_Vision - SVHN: Base_Fine_Tuned
+# Best Accuracy: 0.6467808851 | Number of training images: 73257 | Transformation Layer (0-11): 8
