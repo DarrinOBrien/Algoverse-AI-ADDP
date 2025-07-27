@@ -18,3 +18,9 @@ size_nums.extend([1, 70, 140, 280, 372, 465, float("inf")]) # 22 total. range(22
 # [Epoch 19] Train Loss: 0.3466 | Validation Loss: 0.4478 | Validation Accuracy: 0.8487
 # Average base loss: 4.1718, Base Accuracy: 0.0215
 # Average best loss: 1.1816, Best Accuracy: 0.6634
+
+# Best Augmented Accuracy
+# CLIP_ViT_Vision - GTSRB: Base_Fine_Tuned
+# Best Accuracy: 0.6190815519 | Number of training images: 26640 | Transformation Layer (0-11): 7
+# CLIP_ViT_Vision - GTSRB: Fine_Tuned_Layer_Skipping
+# Best Accuracy: 0.9785431512 | Number of training images: 258 | Transformation Layer (0-11): 11

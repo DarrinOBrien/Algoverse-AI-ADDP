@@ -16,3 +16,9 @@ size_nums.append(float('inf')) # 40. range(40)
 # [Epoch 19] Train Loss: 1.6559 | Validation Loss: 3.1437 | Validation Accuracy: 0.2695
 # Average base loss: 5.6392, Base Accuracy: 0.0035
 # Average best loss: 3.1100, Best Accuracy: 0.2704
+
+# Best Augmented Accuracy
+# CLIP_ViT_Vision - Stanford_Cars: Base_Fine_Tuned
+# Best Accuracy: 0.30555901010000003 | Number of training images: 6407 | Transformation Layer (0-11): 9
+# CLIP_ViT_Vision - Stanford_Cars: Fine_Tuned_Layer_Skipping
+# Best Accuracy: 0.5373709738 | Number of training images: 196 | Transformation Layer (0-11): 11

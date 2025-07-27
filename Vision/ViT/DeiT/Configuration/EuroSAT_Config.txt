@@ -22,3 +22,9 @@ size_nums.append(float('inf')) # 41. range(41)
 # [Epoch 15] Train Loss: 0.1530 | Validation Loss: 0.1763 | Validation Accuracy: 0.9419
 # Average base loss: 2.6058, Base Accuracy: 0.0804
 # Average best loss: 0.1819, Best Accuracy: 0.9356
+
+# Best Augmented Accuracy
+# CLIP_ViT_Vision - EuroSAT: Base_Fine_Tuned
+# Best Accuracy: 0.9492592593 | Number of training images: 17280 | Transformation Layer (0-11): 5
+# CLIP_ViT_Vision - EuroSAT: Fine_Tuned_Layer_Skipping
+# Best Accuracy: 0.987037037 | Number of training images: 900 | Transformation Layer (0-11): 10

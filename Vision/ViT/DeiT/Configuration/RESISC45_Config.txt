@@ -17,3 +17,9 @@ size_nums.extend([1, 100, 150, 200, 250, 300, float('inf')]) # 7. 28 total. rang
 # [Epoch 1] Train Loss: 0.2072 | Validation Loss: 0.3816 | Validation Accuracy: 0.8844
 # Average base loss: 4.0661, Base Accuracy: 0.0216
 # Average best loss: 0.6461, Best Accuracy: 0.7983
+
+# Best Augmented Accuracy
+# CLIP_ViT_Vision - RESISC45: Base_Fine_Tuned
+# Best Accuracy: 0.7579365079 | Number of training images: 15120 | Transformation Layer (0-11): 8
+# CLIP_ViT_Vision - RESISC45: Fine_Tuned_Layer_Skipping
+# Best Accuracy: 0.9052380952 | Number of training images: 225 | Transformation Layer (0-11): 11

@@ -17,3 +17,9 @@ size_nums.append(float('inf'))
 # [Epoch 19] Train Loss: 0.1457 | Validation Loss: 0.1576 | Validation Accuracy: 0.9521
 # Average base loss: 2.2876, Base Accuracy: 0.1688
 # Average best loss: 0.1536, Best Accuracy: 0.9526
+
+# Best Augmented Accuracy
+# CLIP_ViT_Vision - MNIST: Base_Fine_Tuned
+# Best Accuracy: 0.9529000000000001 | Number of training images: 60000 | Transformation Layer (0-11): 7
+# CLIP_ViT_Vision - MNIST: Fine_Tuned_Layer_Skipping
+# Best Accuracy: 0.9955 | Number of training images: 600 | Transformation Layer (0-11): 10

@@ -15,3 +15,5 @@ size_nums.append(float('inf'))
 # [Epoch 19] Train Loss: 1.5912 | Validation Loss: 1.6196 | Validation Accuracy: 0.4522
 # Average base loss: 2.4656, Base Accuracy: 0.1270
 # Average best loss: 1.5736, Best Accuracy: 0.4705
+
+# Best Accuracy
