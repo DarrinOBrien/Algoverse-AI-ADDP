@@ -20,7 +20,6 @@ size_nums.append(float('inf')) #29. do range(29)
 
 # Best Augmented Accuracy
 # CLIP_ViT_Vision - SVHN: Base_Fine_Tuned
-# CLIP_ViT_Vision - SVHN: Base_Fine_Tuned
 # Best Accuracy: 0.6726336816 | Number of training images: 58605 | Transformation Layer (0-11): 8
 # CLIP_ViT_Vision - SVHN: Fine_Tuned_Layer_Skipping
 # Best Accuracy: 0.9664259373 | Number of training images: 350 | Transformation Layer (0-11): 11
