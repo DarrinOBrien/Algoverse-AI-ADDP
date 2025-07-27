@@ -1,0 +1,19 @@
+dataset = load_dataset('tanganke/dtd', cache_dir="/workspace/.hf_cache") # https://huggingface.co/datasets/tanganke/dtd
+num_classes = 47
+dataset_name = "DTD"
+size_nums = [i for i in range(1, 40)] #10
+size_nums.append(float('inf'))
+
+# Fine-Tuning Results
+# AdamW
+# Trained for 20 EPOCHS; 0-19
+# [Epoch 1] Train Loss: 0.8610 | Validation Loss: 1.1849 | Validation Accuracy: 0.6636
+# Average base loss: 4.0973, Base Accuracy: 0.0303
+# Average best loss: 1.1870, Best Accuracy: 0.6574
+
+# Linear Probe Results
+# AdamW
+# Trained for 20 EPOCHS; 0-19
+# [Epoch 15] Train Loss: 0.6711 | Validation Loss: 1.3226 | Validation Accuracy: 0.6130
+# Average base loss: 4.2515, Base Accuracy: 0.0112
+# Average best loss: 1.2748, Best Accuracy: 0.6335

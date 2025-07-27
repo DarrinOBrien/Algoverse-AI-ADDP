@@ -1,0 +1,18 @@
+dataset = load_dataset("tanganke/stanford_cars", cache_dir="/workspace/.hf_cache") # https://huggingface.co/datasets/tanganke/stanford_cars
+dataset_name = "Stanford_Cars"
+num_classes = 196
+size_nums = [i for i in range(1, 40)] # Start from 1,2,3,4,...->39. There are around 40 images per class in the test dataset. Only want max 20 images per class for learning matrix. 
+size_nums.append(float('inf')) # 40. range(40)
+
+# Fine-Tuning Results
+# AdamW
+# Trained 20 EPOCHS; 0-19
+# [Epoch 3] Train Loss: 0.2589 | Validation Loss: 1.7594 | Validation Accuracy: 0.5384
+# Average base loss: 5.5676, Base Accuracy: 0.0063
+# Average best loss: 1.7982, Best Accuracy: 0.5374
+
+# Linear Probe Results
+# AdamW
+# [Epoch 19] Train Loss: 1.6559 | Validation Loss: 3.1437 | Validation Accuracy: 0.2695
+# Average base loss: 5.6392, Base Accuracy: 0.0035
+# Average best loss: 3.1100, Best Accuracy: 0.2704

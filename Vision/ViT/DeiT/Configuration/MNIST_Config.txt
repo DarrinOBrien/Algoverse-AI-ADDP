@@ -1,0 +1,19 @@
+dataset = load_dataset("ylecun/mnist", cache_dir="/workspace/.hf_cache") # https://huggingface.co/datasets/ylecun/mnist
+dataset_name = "MNIST"
+num_classes = 10
+size_nums = [i for i in range(5, 105, 5)]
+size_nums.insert(0, 1)
+size_nums.append(float('inf'))
+
+# Fine-Tuning Results
+# AdamW
+# Trained 20 EPOCHS; 0-19
+# [Epoch 15] Train Loss: 0.0037 | Validation Loss: 0.0238 | Validation Accuracy: 0.9955
+# Average base loss: 2.4978, Base Accuracy: 0.0680
+# Average best loss: 0.0191, Best Accuracy: 0.9950
+
+# Linear Probe Results
+# Trained 20 EPOCHS; 0-19
+# [Epoch 19] Train Loss: 0.1457 | Validation Loss: 0.1576 | Validation Accuracy: 0.9521
+# Average base loss: 2.2876, Base Accuracy: 0.1688
+# Average best loss: 0.1536, Best Accuracy: 0.9526

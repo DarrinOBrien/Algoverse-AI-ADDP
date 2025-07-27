@@ -1,0 +1,24 @@
+dataset = load_dataset('tanganke/eurosat', cache_dir="/workspace/.hf_cache") # https://huggingface.co/datasets/tanganke/eurosat
+dataset_name = "EuroSAT"
+num_classes = 10
+size_nums = [i for i in range(1, 28)] # Start from 1,2,3,4,5,...->27. 27 total. 
+for i in range(40, 150, 10): # Adds {40, 50, 60, ...140}. 11 + 27 -> 38.
+    size_nums.append(i)
+size_nums.append(300) # 39. 
+size_nums.append(600) # 40
+size_nums.append(1200) # 41
+size_nums.append(float('inf')) # 41. range(41)
+
+# Fine-Tuning Results
+# Adam
+# Trained for 20 EPOCHS; 0-19
+# [Epoch 7] Train Loss: 0.0127 | Validation Loss: 0.0483 | Validation Accuracy: 0.9856
+# Average base loss: 2.4745, Base Accuracy: 0.0989
+# Average best loss: 0.0420, Best Accuracy: 0.9867
+
+# Linear Probe Results
+# AdamW
+# Trained for 20 EPOCHS; 0-19
+# [Epoch 15] Train Loss: 0.1530 | Validation Loss: 0.1763 | Validation Accuracy: 0.9419
+# Average base loss: 2.6058, Base Accuracy: 0.0804
+# Average best loss: 0.1819, Best Accuracy: 0.9356

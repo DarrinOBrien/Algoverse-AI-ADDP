@@ -1,0 +1,20 @@
+dataset = load_dataset("tanganke/gtsrb", cache_dir="/workspace/.hf_cache") # https://huggingface.co/datasets/tanganke/gtsrb
+dataset_name = "GTSRB"
+num_classes = 43
+size_nums = [i for i in range(2, 31, 2)] # Start from 2,4,6,...->30. 15 total.
+size_nums.extend([1, 70, 140, 280, 372, 465, float("inf")]) # 22 total. range(22)
+
+# Fine-Tuning Results
+# AdamW
+# 20 EPOCHS; 0-19
+# [Epoch 13] Train Loss: 0.0052 | Validation Loss: 0.0062 | Validation Accuracy: 0.9987
+# Total of 24+ EPOCHS
+# Average base loss: 4.1033, Base Accuracy: 0.0264
+# Average best loss: 0.1011, Best Accuracy: 0.9785
+
+# Linear Probe Results
+# AdamW
+# 20 EPOCHS; 0-19
+# [Epoch 19] Train Loss: 0.3466 | Validation Loss: 0.4478 | Validation Accuracy: 0.8487
+# Average base loss: 4.1718, Base Accuracy: 0.0215
+# Average best loss: 1.1816, Best Accuracy: 0.6634
