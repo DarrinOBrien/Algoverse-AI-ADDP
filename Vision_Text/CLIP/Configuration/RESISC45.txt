@@ -1,0 +1,8 @@
+dataset = load_dataset('tanganke/resisc45', cache_dir="/workspace/.hf_cache") # https://huggingface.co/datasets/tanganke/resisc45
+num_classes = 45
+dataset_name = "RESISC45"
+size_nums = [i for i in range(2, 64, 3)] 
+size_nums.extend([1, 100, 150, 200, 250, 300, float('inf')]) 
+fine_tuned_model_name = "tanganke/clip-vit-base-patch32_resisc45"
+
+# Best Augmented Accuracy
