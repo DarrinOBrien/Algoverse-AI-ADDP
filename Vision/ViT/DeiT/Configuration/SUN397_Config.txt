@@ -19,3 +19,7 @@ size_nums.extend([30, 35, float('inf')]) # add 3. range(30)
 # Average best loss: 1.8676, Best Accuracy: 0.5128
 
 # Best Accuracy
+# CLIP_ViT_Vision - SUN397: Base_Fine_Tuned
+# Best Accuracy: 0.4596473552 | Number of training images: 11910 | Transformation Layer (0-11): 11
+# CLIP_ViT_Vision - SUN397: Fine_Tuned_Layer_Skipping
+# Best Accuracy: 0.5275566751 | Number of training images: 397 | Transformation Layer (0-11): 11
