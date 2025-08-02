@@ -3,6 +3,13 @@ num_classes = 43
 dataset_name = "GTSRB"
 size_nums = [i for i in range(2, 31, 2)] # Start from 2,4,6,...->30. 15 total.
 size_nums.extend([1, 70, 140, 280, 372, 465, float("inf")]) # 22 total. range(22)
-fine_tuned_model_name = "tanganke/clip-vit-base-patch32_eurosat"
+fine_tuned_model_name = "tanganke/clip-vit-base-patch32_gtsrb"
+
+# Base Accuracy: 0.2694
+# Fine-Tuned Accuracy: 0.9873
 
 # Best Augmented Accuracy
+# CLIP - GTSRB: Base_Fine_Tuned
+# Best Accuracy: 0.8570863025000001 | Number of training images: 13779 | Transformation Layer (0-11): 11
+# CLIP - GTSRB: Fine_Tuned_Layer_Skipping
+# Best Accuracy: 0.9878859857000001 | Number of training images: 12092 | Transformation Layer (0-11): 10

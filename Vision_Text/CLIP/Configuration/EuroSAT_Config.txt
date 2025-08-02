@@ -7,7 +7,13 @@ for i in range(40, 150, 10): # Adds {40, 50, 60, ...140}. 11 + 27 -> 38.
 size_nums.append(300) # 39. 
 size_nums.append(600) # 40
 size_nums.append(1200) # 41
-
 fine_tuned_model_name = "tanganke/clip-vit-base-patch32_eurosat"
 
+# Base Accuracy: 0.3289
+# Fine-Tuned Accuracy: 0.9885
+
 # Best Augmented Accuracy:
+# CLIP - EuroSAT: Base_Fine_Tuned
+# Best Accuracy: 0.9648148148000001 | Number of training images: 21600 | Transformation Layer (0-11): 6
+# CLIP - EuroSAT: Fine_Tuned_Layer_Skipping
+# Best Accuracy: 0.9888888889 | Number of training images: 20 | Transformation Layer (0-11): 11
