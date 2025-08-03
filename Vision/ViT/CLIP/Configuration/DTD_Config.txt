@@ -23,3 +23,32 @@ size_nums.append(float('inf'))
 # Best Accuracy: 0.7622340426 | Number of training images: 3008 | Transformation Layer (0-11): 11
 # CLIP_ViT_Vision - DTD: Fine_Tuned_Layer_Skipping
 # Best Accuracy: 0.7872340426000001 | Number of training images: 564 | Transformation Layer (0-11): 11
+
+
+# Increment Fine-Tuning
+# Trained for 20 EPOCHS each
+
+# Train Split #0
+# [Epoch 0] Train Loss: 0.0002 | Validation Loss: 1.4465 | Validation Accuracy: 0.6356
+# Average base loss: 4.0743, Base Accuracy: 0.0138
+# Average best loss: 1.3216, Best Accuracy: 0.6707
+
+# Train Split #1
+# [Epoch 0] Train Loss: 0.0001 | Validation Loss: 1.4592 | Validation Accuracy: 0.6356
+# Average base loss: 4.0743, Base Accuracy: 0.0138
+# Average best loss: 1.3349, Best Accuracy: 0.6713
+
+# Train Split #2
+# [Epoch 0] Train Loss: 0.0001 | Validation Loss: 1.4716 | Validation Accuracy: 0.6370
+# Average base loss: 4.0743, Base Accuracy: 0.0138
+# Average best loss: 1.3470, Best Accuracy: 0.6707
+
+# Train Split #3
+# [Epoch 0] Train Loss: 0.0001 | Validation Loss: 1.4835 | Validation Accuracy: 0.6343
+# Average base loss: 4.0743, Base Accuracy: 0.0138
+# Average best loss: 1.3591, Best Accuracy: 0.6729
+
+# Train Split #4
+# [Epoch 0] Train Loss: 0.0001 | Validation Loss: 1.4940 | Validation Accuracy: 0.6343
+# Average base loss: 4.0743, Base Accuracy: 0.0138
+# Average best loss: 1.3702, Best Accuracy: 0.6713
