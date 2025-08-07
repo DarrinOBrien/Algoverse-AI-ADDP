@@ -29,26 +29,40 @@ size_nums.append(float('inf'))
 # Trained for 20 EPOCHS each
 
 # Train Split #0
-# [Epoch 0] Train Loss: 0.0002 | Validation Loss: 1.4465 | Validation Accuracy: 0.6356
-# Average base loss: 4.0743, Base Accuracy: 0.0138
-# Average best loss: 1.3216, Best Accuracy: 0.6707
+# [Epoch 9] Train Loss: 0.0082 | Validation Loss: 1.2940 | Validation Accuracy: 0.6316
+
 
 # Train Split #1
-# [Epoch 0] Train Loss: 0.0001 | Validation Loss: 1.4592 | Validation Accuracy: 0.6356
-# Average base loss: 4.0743, Base Accuracy: 0.0138
-# Average best loss: 1.3349, Best Accuracy: 0.6713
+# [Epoch 11] Train Loss: 0.0074 | Validation Loss: 1.2987 | Validation Accuracy: 0.6316
+
 
 # Train Split #2
-# [Epoch 0] Train Loss: 0.0001 | Validation Loss: 1.4716 | Validation Accuracy: 0.6370
-# Average base loss: 4.0743, Base Accuracy: 0.0138
-# Average best loss: 1.3470, Best Accuracy: 0.6707
+# [Epoch 6] Train Loss: 0.0197 | Validation Loss: 1.2701 | Validation Accuracy: 0.6396
+
 
 # Train Split #3
-# [Epoch 0] Train Loss: 0.0001 | Validation Loss: 1.4835 | Validation Accuracy: 0.6343
-# Average base loss: 4.0743, Base Accuracy: 0.0138
-# Average best loss: 1.3591, Best Accuracy: 0.6729
+# [Epoch 5] Train Loss: 0.0450 | Validation Loss: 1.2737 | Validation Accuracy: 0.6569
+
 
 # Train Split #4
-# [Epoch 0] Train Loss: 0.0001 | Validation Loss: 1.4940 | Validation Accuracy: 0.6343
-# Average base loss: 4.0743, Base Accuracy: 0.0138
-# Average best loss: 1.3702, Best Accuracy: 0.6713
+# [Epoch 7] Train Loss: 0.0140 | Validation Loss: 1.3297 | Validation Accuracy: 0.6316
+
+
+
+# Increment Linear-Probing
+# Trained for 20 EPOCHS each
+
+# Train Split #0
+# [Epoch 18] Train Loss: 0.1555 | Validation Loss: 1.2797 | Validation Accuracy: 0.6463
+
+# Train Split #1
+# [Epoch 19] Train Loss: 0.1396 | Validation Loss: 1.2649 | Validation Accuracy: 0.6529
+
+# Train Split #2
+# [Epoch 18] Train Loss: 0.1509 | Validation Loss: 1.2825 | Validation Accuracy: 0.6463
+
+# Train Split #3
+# [Epoch 19] Train Loss: 0.1341 | Validation Loss: 1.2962 | Validation Accuracy: 0.6396
+
+# Train Split #4
+# [Epoch 17] Train Loss: 0.1707 | Validation Loss: 1.2940 | Validation Accuracy: 0.6370
