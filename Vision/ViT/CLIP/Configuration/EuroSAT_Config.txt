@@ -33,18 +33,23 @@ size_nums.append(1200) # 41
 
 # Train Subset #0
 # [Epoch 10] Train Loss: 0.0002 | Validation Loss: 0.0837 | Validation Accuracy: 0.9787
+# Test Accuracy: 0.9800
 
 # Train Subset #1
 # [Epoch 8] Train Loss: 0.0003 | Validation Loss: 0.0888 | Validation Accuracy: 0.9785
+# Test Accuracy: 0.9793
 
 # Train Subset #2
 # [Epoch 4] Train Loss: 0.0073 | Validation Loss: 0.0824 | Validation Accuracy: 0.9757
+# Test Accuracy: 0.9796
 
 # Train Subset #3
 # [Epoch 8] Train Loss: 0.0031 | Validation Loss: 0.0814 | Validation Accuracy: 0.9799
+# Test Accuracy: 0.9763
 
 # Train Subset #4
 # [Epoch 8] Train Loss: 0.0005 | Validation Loss: 0.0736 | Validation Accuracy: 0.9801
+# Test Accuracy: 0.9811
 
 
 # Increment Linear Probes
@@ -53,15 +58,20 @@ size_nums.append(1200) # 41
 
 # Train Subset #0
 # [Epoch 18] Train Loss: 0.1026 | Validation Loss: 0.1816 | Validation Accuracy: 0.9414
+# Test Accuracy: 0.9403703703703704
 
 # Train Subset #1
 # [Epoch 19] Train Loss: 0.1015 | Validation Loss: 0.1821 | Validation Accuracy: 0.9417
+# Test Accuracy: 0.9422222222222222
 
 # Train Subset #2
 # [Epoch 18] Train Loss: 0.1042 | Validation Loss: 0.1767 | Validation Accuracy: 0.9449
+# Test Accuracy: 0.9422222222222222
 
 # Train Subset #3
 # [Epoch 19] Train Loss: 0.1005 | Validation Loss: 0.1752 | Validation Accuracy: 0.9444
+# Test Accuracy: 0.945925925925926
 
 # Train Subset #4
 # [Epoch 19] Train Loss: 0.0986 | Validation Loss: 0.1759 | Validation Accuracy: 0.9437
+# Test Accuracy: 0.9411111111111111

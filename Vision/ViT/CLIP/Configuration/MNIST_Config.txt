@@ -24,57 +24,49 @@ size_nums.insert(0, float('inf'))
 # CLIP_ViT_Vision - MNIST: Fine_Tuned_Layer_Skipping
 # Best Accuracy: 0.9949 | Number of training images: 10 | Transformation Layer (0-11): 11
 
-# Early Layer Skipping with personalized linear Probe for task matrix augmentation
-# With 48k Task Matrix
-# Trained for 20 EPOCHS; 0-19
+# Increment Fine-Tuning
+# 20 EPOCHS; 0-19; AdamW
 
-# Layer 0: best_CLIP_ViT_Vision_MNIST_ex_0.pt
-# [Epoch 17] Train Loss: 1.8874 | Validation Loss: 1.8763 | Validation Accuracy: 0.3167
-# Average base loss: 2.5060, Base Accuracy: 0.0961
-# Average best loss: 1.8531, Best Accuracy: 0.3275
+# Subset 0
+# [Epoch 4] Train Loss: 0.0044 | Validation Loss: 0.0354 | Validation Accuracy: 0.9911
+# Test Accuracy: 0.9940
 
-# Layer 1: best_CLIP_ViT_Vision_MNIST_ex_1.pt
-# [Epoch 19] Train Loss: 1.6382 | Validation Loss: 1.6309 | Validation Accuracy: 0.3992
+# Subset 1
+# [Epoch 17] Train Loss: 0.0001 | Validation Loss: 0.0401 | Validation Accuracy: 0.9917
+# Test Accuracy: 0.9947
+
+# Subset 2
+# [Epoch 9] Train Loss: 0.0006 | Validation Loss: 0.0310 | Validation Accuracy: 0.9927
+# Test Accuracy: 0.9944
+
+# Subset 3
+# [Epoch 2] Train Loss: 0.0231 | Validation Loss: 0.0373 | Validation Accuracy: 0.9892
+# Test Accuracy: 0.9916
+
+# Subset 4
+# [Epoch 6] Train Loss: 0.0006 | Validation Loss: 0.0384 | Validation Accuracy: 0.9918
+# Test Accuracy: 0.9922
 
 
-# Layer 2: best_CLIP_ViT_Vision_MNIST_ex_2.pt
-# [Epoch 19] Train Loss: 1.6312 | Validation Loss: 1.6349 | Validation Accuracy: 0.3914
+# Increment Linear Probes
+# 20 EPOCHS; 0-19; # AdamW
 
-# Layer 3: best_CLIP_ViT_Vision_MNIST_ex_3.pt
-# [Epoch 18] Train Loss: 1.2004 | Validation Loss: 1.1802 | Validation Accuracy: 0.6078
+# Subset 0
+# [Epoch 19] Train Loss: 0.0497 | Validation Loss: 0.0763 | Validation Accuracy: 0.9798
+# Test Accuracy: 0.9801
 
-# Layer 4: best_CLIP_ViT_Vision_MNIST_ex_4.pt
-# [Epoch 18] Train Loss: 0.9798 | Validation Loss: 0.9600 | Validation Accuracy: 0.7126
+# Subset 1
+# [Epoch 18] Train Loss: 0.0517 | Validation Loss: 0.0768 | Validation Accuracy: 0.9782
+# Test Accuracy: 0.9805
 
-# Layer 5: best_CLIP_ViT_Vision_MNIST_ex_5.pt
-# [Epoch 19] Train Loss: 0.8090 | Validation Loss: 0.7942 | Validation Accuracy: 0.7579
+# Subset 2
+# [Epoch 19] Train Loss: 0.0494 | Validation Loss: 0.0766 | Validation Accuracy: 0.9797
+# Test Accuracy: 0.979
 
-# Layer 6: best_CLIP_ViT_Vision_MNIST_ex_6.pt
-# [Epoch 19] Train Loss: 0.5045 | Validation Loss: 0.5116 | Validation Accuracy: 0.8541
+# Subset 3
+# [Epoch 19] Train Loss: 0.0506 | Validation Loss: 0.0764 | Validation Accuracy: 0.9788
+# Test Accuracy: 0.9793
 
-# Layer 7: best_CLIP_ViT_Vision_MNIST_ex_7.pt
-# [Epoch 18] Train Loss: 0.2647 | Validation Loss: 0.2649 | Validation Accuracy: 0.9273
-
-# Layer 8: best_CLIP_ViT_Vision_MNIST_ex_8.pt
-# [Epoch 19] Train Loss: 0.1372 | Validation Loss: 0.1429 | Validation Accuracy: 0.9591
-
-# Layer 9: best_CLIP_ViT_Vision_MNIST_ex_9.pt
-# [Epoch 19] Train Loss: 0.1051 | Validation Loss: 0.1067 | Validation Accuracy: 0.9699
-
-# Layer 10: best_CLIP_ViT_Vision_MNIST_ex_10.pt
-# [Epoch 15] Train Loss: 0.0795 | Validation Loss: 0.0824 | Validation Accuracy: 0.9759
-
-# Layer 11: best_CLIP_ViT_Vision_MNIST_ex_11.pt
-# [Epoch 18] Train Loss: 0.0262 | Validation Loss: 0.0414 | Validation Accuracy: 0.9878
-
-# Early Layer Skipping with personalized linear probe without task matrix augmentation
-# Trained for 20 EPOCHS; 0-19
-
-# Layer 1
-# [Epoch 18] Train Loss: 1.3269 | Validation Loss: 1.3170 | Validation Accuracy: 0.5817
-
-# Layer 2
-# [Epoch 19] Train Loss: 1.2336 | Validation Loss: 1.2233 | Validation Accuracy: 0.6291
-
-# Layer 3
-# 
+# Subset 4
+# [Epoch 19] Train Loss: 0.0496 | Validation Loss: 0.0792 | Validation Accuracy: 0.9781
+# Test Accuracy: 0.9797

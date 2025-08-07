@@ -30,23 +30,23 @@ size_nums.append(float('inf'))
 
 # Train Split #0
 # [Epoch 9] Train Loss: 0.0082 | Validation Loss: 1.2940 | Validation Accuracy: 0.6316
-
+# Test Accuracy: 0.6596 
 
 # Train Split #1
 # [Epoch 11] Train Loss: 0.0074 | Validation Loss: 1.2987 | Validation Accuracy: 0.6316
-
+# Test Accuracy: 0.6617
 
 # Train Split #2
 # [Epoch 6] Train Loss: 0.0197 | Validation Loss: 1.2701 | Validation Accuracy: 0.6396
-
+# Test Accuracy: 0.6633
 
 # Train Split #3
 # [Epoch 5] Train Loss: 0.0450 | Validation Loss: 1.2737 | Validation Accuracy: 0.6569
-
+# Test Accuracy: 0.6617
 
 # Train Split #4
 # [Epoch 7] Train Loss: 0.0140 | Validation Loss: 1.3297 | Validation Accuracy: 0.6316
-
+# Test Accuracy: 0.6420
 
 
 # Increment Linear-Probing
@@ -54,15 +54,20 @@ size_nums.append(float('inf'))
 
 # Train Split #0
 # [Epoch 18] Train Loss: 0.1555 | Validation Loss: 1.2797 | Validation Accuracy: 0.6463
+# Test Accuracy: 0.6723404255319149
 
 # Train Split #1
 # [Epoch 19] Train Loss: 0.1396 | Validation Loss: 1.2649 | Validation Accuracy: 0.6529
+# Test Accuracy: 0.673936170212766
 
 # Train Split #2
 # [Epoch 18] Train Loss: 0.1509 | Validation Loss: 1.2825 | Validation Accuracy: 0.6463
+# Test Accuracy: 0.6664893617021277
 
 # Train Split #3
 # [Epoch 19] Train Loss: 0.1341 | Validation Loss: 1.2962 | Validation Accuracy: 0.6396
+# 0.6648936170212766
 
 # Train Split #4
 # [Epoch 17] Train Loss: 0.1707 | Validation Loss: 1.2940 | Validation Accuracy: 0.6370
+# 0.6675531914893617

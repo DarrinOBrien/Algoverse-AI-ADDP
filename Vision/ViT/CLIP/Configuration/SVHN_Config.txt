@@ -23,3 +23,50 @@ size_nums.append(float('inf')) #29. do range(29)
 # Best Accuracy: 0.6726336816 | Number of training images: 58605 | Transformation Layer (0-11): 8
 # CLIP_ViT_Vision - SVHN: Fine_Tuned_Layer_Skipping
 # Best Accuracy: 0.9664259373 | Number of training images: 350 | Transformation Layer (0-11): 11
+
+# Fine-Tune Increments
+# 20 EPOCHS; 0-19; AdamW
+
+# Subset 0
+# [Epoch 1] Train Loss: 0.2540 | Validation Loss: 0.2718 | Validation Accuracy: 0.9216
+# Test Accuracy: 0.9416
+
+# Subset 1
+# [Epoch 1] Train Loss: 0.2656 | Validation Loss: 0.2893 | Validation Accuracy: 0.9165
+# Test Accuracy: 0.9304
+
+# Subset 2
+# [Epoch 1] Train Loss: 0.2450 | Validation Loss: 0.2610 | Validation Accuracy: 0.9258
+# Test Accuracy: 0.9324
+
+# Subset 3
+# [Epoch 2] Train Loss: 0.1543 | Validation Loss: 0.2771 | Validation Accuracy: 0.9217
+# Test Accuracy: 0.9417
+
+# Subset 4
+# [Epoch 2] Train Loss: 0.1529 | Validation Loss: 0.2972 | Validation Accuracy: 0.9246
+# Test Accuracy: 0.9386
+
+
+# Linear Probe Increments
+# 20 EPOCHS; 0-19; AdamW
+
+# Subset 0
+# [Epoch 18] Train Loss: 1.1256 | Validation Loss: 1.2676 | Validation Accuracy: 0.5741
+# Test Accuracy: 0.6166641057160418
+
+# Subset 1
+# [Epoch 19] Train Loss: 1.1200 | Validation Loss: 1.2689 | Validation Accuracy: 0.5742
+# Test Accuracy: 0.6091733251382914
+
+# Subset 2
+# [Epoch 16] Train Loss: 1.1458 | Validation Loss: 1.2898 | Validation Accuracy: 0.5667
+# Test Accuracy: 0.6099031960663799
+
+# Subset 3
+# [Epoch 17] Train Loss: 1.1348 | Validation Loss: 1.2756 | Validation Accuracy: 0.5732
+# Test Accuracy: 0.6057928703134604
+
+# Subset 4
+# [Epoch 19] Train Loss: 1.1168 | Validation Loss: 1.2648 | Validation Accuracy: 0.5761
+# Test Accuracy: 0.6116702519975414
