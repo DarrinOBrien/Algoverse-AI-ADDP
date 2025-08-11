@@ -70,3 +70,53 @@ size_nums.append(float('inf')) # 26 total. range(26)
 # Subset 4
 # [EPOCH 19]
 # Test Accuracy: 0.663073047858942
+
+
+# Extended Fine-Tuning; AdamW
+# Trained as many EPOCHS until no more improvement
+# Average: 0.7457934508816121 +- 7.612763230526308e-06
+
+# 1
+# Average base loss: 6.135312739675834, Base Accuracy: 0.0024685138539042822
+# Average best loss: 0.9805529125729557, Best Accuracy: 0.7438790931989925
+
+# 2
+# Average base loss: 6.1267490877599196, Base Accuracy: 0.00327455919395466
+# Average best loss: 0.9885024411597819, Best Accuracy: 0.7422166246851385
+
+# 3
+# Average base loss: 6.147096411591558, Base Accuracy: 0.005037783375314861
+# Average best loss: 0.9834469238421925, Best Accuracy: 0.7455919395465995
+
+# 4
+# Average base loss: 6.140932952476084, Base Accuracy: 0.00327455919395466
+# Average best loss: 0.9709971356190669, Best Accuracy: 0.7470025188916877
+
+# 5
+# Average base loss: 6.124494805596649, Base Accuracy: 0.003375314861460957
+# Average best loss: 0.9786417846391247, Best Accuracy: 0.7502770780856424
+
+
+# Extended Training Linear Probes; AdamW
+# Trained as many EPOCHS until no more improvement
+# Average: 0.7387607052896725 +- 6.980921140290319e-06
+
+# 1
+# Average base loss: 6.146183361961144, Base Accuracy: 0.002216624685138539
+# Average best loss: 0.9098717239460761, Best Accuracy: 0.7364231738035264
+
+# 2
+# Average base loss: 6.108999247719621, Base Accuracy: 0.001561712846347607
+# Average best loss: 0.9095222107179679, Best Accuracy: 0.7398488664987406
+
+# 3
+# Average base loss: 6.143118902801318, Base Accuracy: 0.0025692695214105795
+# Average best loss: 0.90031261825964, Best Accuracy: 0.7423173803526448
+
+# 4
+# Average base loss: 6.163670470860227, Base Accuracy: 0.0021662468513853903
+# Average best loss: 0.9046981239577582, Best Accuracy: 0.7401511335012595
+
+# 5
+# Average base loss: 6.1500588950620205, Base Accuracy: 0.0023173803526448365
+# Average best loss: 0.9125201248854303, Best Accuracy: 0.7350629722921914

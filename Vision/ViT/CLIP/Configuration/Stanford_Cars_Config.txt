@@ -71,3 +71,53 @@ size_nums.append(float('inf')) # 40. range(40)
 # Subset 4
 # [Epoch 19] Train Loss: 0.0854 | Validation Loss: 1.3903 | Validation Accuracy: 0.6077
 # Test Accuracy: 0.6209426688222858
+
+
+# Extended Fine-Tuning; AdamW
+# Trained as many EPOCHS until no more improvement
+# Average: 0.827807486631016 +- 1.4479950185655694e-05
+
+# 1
+# Average base loss: 5.461415673059131, Base Accuracy: 0.0048501430170376815
+# Average best loss: 0.6089342767520557, Best Accuracy: 0.8271359283671185
+
+# 2
+# Average base loss: 5.445964219078185, Base Accuracy: 0.0047257803755751775
+# Average best loss: 0.5945949217984601, Best Accuracy: 0.8307424449695312
+
+# 3
+# Average base loss: 5.444669515367538, Base Accuracy: 0.0065912199975127475
+# Average best loss: 0.5995365751700269, Best Accuracy: 0.8307424449695312
+
+# 4
+# Average base loss: 5.418104429093618, Base Accuracy: 0.006218132073125233
+# Average best loss: 0.6042730102226848, Best Accuracy: 0.8297475438378311
+
+# 5
+# Average base loss: 5.442956655744522, Base Accuracy: 0.00186543962193757
+# Average best loss: 0.6212031108046335, Best Accuracy: 0.8206690710110682
+
+
+# Extended Training Linear Probes; AdamW
+# Trained as many EPOCHS until no more improvement
+# Average: 0.7998756373585375 +- 2.6378923178516626e-06
+
+# 1
+# Average base loss: 5.43520486544049, Base Accuracy: 0.007586121129212784
+# Average best loss: 0.6634407565588989, Best Accuracy: 0.80089541101853
+
+# 2
+# Average base loss: 5.459699797251868, Base Accuracy: 0.00373087924387514
+# Average best loss: 0.6611880637587063, Best Accuracy: 0.7976619823405049
+
+# 3
+# Average base loss: 5.4458042439960295, Base Accuracy: 0.00721303320482527
+# Average best loss: 0.6544124570985635, Best Accuracy: 0.8023877627160801
+
+# 4
+# Average base loss: 5.433882641413855, Base Accuracy: 0.003606516602412635
+# Average best loss: 0.6624668840141523, Best Accuracy: 0.79940305932098
+
+# 5
+# Average base loss: 5.420740839034792, Base Accuracy: 0.0027359781121751026
+# Average best loss: 0.6597893546143222, Best Accuracy: 0.7990299713965925
