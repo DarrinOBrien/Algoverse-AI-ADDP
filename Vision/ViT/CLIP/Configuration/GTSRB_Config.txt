@@ -1,8 +1,7 @@
 dataset = load_dataset('tanganke/gtsrb', cache_dir="/workspace/.hf_cache") # https://huggingface.co/datasets/tanganke/gtsrb
 num_classes = 43
 dataset_name = "GTSRB"
-size_nums = [i for i in range(2, 31, 2)] # Start from 2,4,6,...->30. 15 total.
-size_nums.extend([1, 70, 140, 280, 372, 465, float("inf")]) # 22 total. range(22)
+size_nums = [i for i in range(2, 31, 2)] + [1, 70, 140, 280, 372, 465, float("inf")] 
 
 # Fine-Tuning Results
 # AdamW; 20 EPOCHS; 1-19
