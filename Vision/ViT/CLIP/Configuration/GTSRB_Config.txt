@@ -119,3 +119,12 @@ size_nums = [i for i in range(2, 31, 2)] + [1, 70, 140, 280, 372, 465, float("in
 # 5
 # Average base loss: 3.9142683359107586, Base Accuracy: 0.021773555027711798
 # Average best loss: 0.5633949759280262, Best Accuracy: 0.8699129057798891
+
+
+CLIP_ViT_Vision - GTSRB: Base_Fine_Tuned
+Set 1 Best Accuracy: 0.8752969121 | Number of training images: 13779 | Transformation Layer (0-11): 11
+Set 2 Best Accuracy: 0.8686460808 | Number of training images: 13779 | Transformation Layer (0-11): 11
+Set 3 Best Accuracy: 0.8760886778 | Number of training images: 13779 | Transformation Layer (0-11): 11
+Set 4 Best Accuracy: 0.8726049089000001 | Number of training images: 12092 | Transformation Layer (0-11): 11
+Set 5 Best Accuracy: 0.8712589074 | Number of training images: 13779 | Transformation Layer (0-11): 11
+Average: 0.8727790973999999 +- 7.343171754621553e-06

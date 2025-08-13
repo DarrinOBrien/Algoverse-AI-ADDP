@@ -119,3 +119,12 @@ size_nums = [i for i in range(1, 26)] + [float('inf')]
 # 5
 # Average base loss: 6.1500588950620205, Base Accuracy: 0.0023173803526448365
 # Average best loss: 0.9125201248854303, Best Accuracy: 0.7350629722921914
+
+
+CLIP_ViT_Vision - SUN397: Base_Fine_Tuned
+Set 1 Best Accuracy: 0.7476574307 | Number of training images: 15880 | Transformation Layer (0-11): 11
+Set 2 Best Accuracy: 0.7454911839 | Number of training images: 19850 | Transformation Layer (0-11): 11
+Set 3 Best Accuracy: 0.7467002519 | Number of training images: 19850 | Transformation Layer (0-11): 11
+Set 4 Best Accuracy: 0.7515869018 | Number of training images: 15880 | Transformation Layer (0-11): 11
+Set 5 Best Accuracy: 0.7501259446 | Number of training images: 15880 | Transformation Layer (0-11): 11
+Average: 0.74831234258 +- 4.999714520216467e-06

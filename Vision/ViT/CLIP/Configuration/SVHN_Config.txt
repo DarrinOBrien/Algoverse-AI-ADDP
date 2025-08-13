@@ -117,3 +117,12 @@ Average best loss: 0.9981984680642074, Best Accuracy: 0.6684849416103258
 5
 Average base loss: 2.368827382821123, Base Accuracy: 0.19299323909035035
 Average best loss: 0.9997370912343336, Best Accuracy: 0.6671020282728949
+
+
+CLIP_ViT_Vision - SVHN: Base_Fine_Tuned
+Set 1 Best Accuracy: 0.6683312846 | Number of training images: 73257 | Transformation Layer (0-11): 8
+Set 2 Best Accuracy: 0.6675245851 | Number of training images: 73257 | Transformation Layer (0-11): 8
+Set 3 Best Accuracy: 0.6601874616 | Number of training images: 58605 | Transformation Layer (0-11): 8
+Set 4 Best Accuracy: 0.6674861709000001 | Number of training images: 58605 | Transformation Layer (0-11): 8
+Set 5 Best Accuracy: 0.6761293792 | Number of training images: 58605 | Transformation Layer (0-11): 8
+Average: 0.66793177628 +- 2.553981584127224e-05

@@ -122,3 +122,12 @@ size_nums = [i for i in range(1, 28)] + [i for i in range(40, 150, 10)] + [300, 
 # 5
 # Average base loss: 2.3643672965293705, Base Accuracy: 0.1448148148148148
 # Average best loss: 0.1181057415487039, Best Accuracy: 0.9596296296296296
+
+
+CLIP_ViT_Vision - EuroSAT: Base_Fine_Tuned
+Set 1 Best Accuracy: 0.9666666667 | Number of training images: 21600 | Transformation Layer (0-11): 6
+Set 2 Best Accuracy: 0.9611111111 | Number of training images: 21600 | Transformation Layer (0-11): 6
+Set 3 Best Accuracy: 0.9651851852000001 | Number of training images: 21600 | Transformation Layer (0-11): 6
+Set 4 Best Accuracy: 0.9618518519 | Number of training images: 21600 | Transformation Layer (0-11): 6
+Set 5 Best Accuracy: 0.9585185185 | Number of training images: 12000 | Transformation Layer (0-11): 8
+Average: 0.96266666668 +- 8.526749061399206e-06
