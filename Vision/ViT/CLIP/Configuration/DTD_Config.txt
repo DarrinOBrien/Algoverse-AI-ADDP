@@ -130,3 +130,11 @@ Set 3 Best Accuracy: 0.7617021277 | Number of training images: 3008 | Transforma
 Set 4 Best Accuracy: 0.7569148936000001 | Number of training images: 3760 | Transformation Layer (0-11): 11
 Set 5 Best Accuracy: 0.7558510638 | Number of training images: 3760 | Transformation Layer (0-11): 11
 Average: 0.7579787233999999 +- 1.4146672637845353e-05
+
+CLIP_ViT_Vision - DTD: Ablation Base with Fine-Tuned Classifier
+Set 1 Best Accuracy: 0.5803191489 | Transformation Layer (0-11): 11
+Set 2 Best Accuracy: 0.5872340426 | Transformation Layer (0-11): 11
+Set 3 Best Accuracy: 0.6090425532 | Transformation Layer (0-11): 11
+Set 4 Best Accuracy: 0.6015957447 | Transformation Layer (0-11): 11
+Set 5 Best Accuracy: 0.5941489362 | Transformation Layer (0-11): 11
+Average: 0.59446808512 +- 0.00010316885485504737

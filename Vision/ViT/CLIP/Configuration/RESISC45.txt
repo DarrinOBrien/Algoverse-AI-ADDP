@@ -129,3 +129,11 @@ Set 3 Best Accuracy: 0.8941269841 | Number of training images: 15120 | Transform
 Set 4 Best Accuracy: 0.8982539683 | Number of training images: 15120 | Transformation Layer (0-11): 11
 Set 5 Best Accuracy: 0.8909523810000001 | Number of training images: 15120 | Transformation Layer (0-11): 11
 Average: 0.89114285716 +- 2.2357268921461335e-05
+
+CLIP_ViT_Vision - RESISC45: Ablation Base with Fine-Tuned Classifier
+Set 1 Best Accuracy: 0.7158730159000001 | Transformation Layer (0-11): 11
+Set 2 Best Accuracy: 0.739047619 | Transformation Layer (0-11): 11
+Set 3 Best Accuracy: 0.7484126984 | Transformation Layer (0-11): 11
+Set 4 Best Accuracy: 0.7185714286 | Transformation Layer (0-11): 11
+Set 5 Best Accuracy: 0.7614285714 | Transformation Layer (0-11): 11
+Average: 0.73666666666 +- 0.00030332073488243815

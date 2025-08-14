@@ -126,3 +126,11 @@ Set 3 Best Accuracy: 0.6601874616 | Number of training images: 58605 | Transform
 Set 4 Best Accuracy: 0.6674861709000001 | Number of training images: 58605 | Transformation Layer (0-11): 8
 Set 5 Best Accuracy: 0.6761293792 | Number of training images: 58605 | Transformation Layer (0-11): 8
 Average: 0.66793177628 +- 2.553981584127224e-05
+
+CLIP_ViT_Vision - SVHN: Ablation Base with Fine-Tuned Classifier
+Set 1 Best Accuracy: 0.2466963737 | Transformation Layer (0-11): 11
+Set 2 Best Accuracy: 0.2174631223 | Transformation Layer (0-11): 11
+Set 3 Best Accuracy: 0.2428549478 | Transformation Layer (0-11): 11
+Set 4 Best Accuracy: 0.2676321451 | Transformation Layer (0-11): 11
+Set 5 Best Accuracy: 0.2425092194 | Transformation Layer (0-11): 11
+Average: 0.24343116166 +- 0.0002543740554550108

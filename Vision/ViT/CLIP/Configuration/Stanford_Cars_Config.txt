@@ -129,3 +129,11 @@ Set 3 Best Accuracy: 0.7928118393 | Number of training images: 8144 | Transforma
 Set 4 Best Accuracy: 0.7934336525 | Number of training images: 8144 | Transformation Layer (0-11): 11
 Set 5 Best Accuracy: 0.8021390374 | Number of training images: 8144 | Transformation Layer (0-11): 11
 Average: 0.79733863946 +- 1.3824188999770709e-05
+
+CLIP_ViT_Vision - Stanford_Cars: Ablation Base with Fine-Tuned Classifier
+Set 1 Best Accuracy: 0.5379927870000001 | Transformation Layer (0-11): 11
+Set 2 Best Accuracy: 0.5378684243 | Transformation Layer (0-11): 11
+Set 3 Best Accuracy: 0.5167267753 | Transformation Layer (0-11): 11
+Set 4 Best Accuracy: 0.5565228205 | Transformation Layer (0-11): 11
+Set 5 Best Accuracy: 0.5453301828 | Transformation Layer (0-11): 11
+Average: 0.53888819798 +- 0.00016908988684542916

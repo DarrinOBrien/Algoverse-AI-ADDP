@@ -128,3 +128,11 @@ Set 3 Best Accuracy: 0.8760886778 | Number of training images: 13779 | Transform
 Set 4 Best Accuracy: 0.8726049089000001 | Number of training images: 12092 | Transformation Layer (0-11): 11
 Set 5 Best Accuracy: 0.8712589074 | Number of training images: 13779 | Transformation Layer (0-11): 11
 Average: 0.8727790973999999 +- 7.343171754621553e-06
+
+CLIP_ViT_Vision - GTSRB: Ablation Base with Fine-Tuned Classifier
+Set 1 Best Accuracy: 0.4549485352 | Transformation Layer (0-11): 11
+Set 2 Best Accuracy: 0.4281868567 | Transformation Layer (0-11): 11
+Set 3 Best Accuracy: 0.4123515439 | Transformation Layer (0-11): 11
+Set 4 Best Accuracy: 0.5318289786 | Transformation Layer (0-11): 11
+Set 5 Best Accuracy: 0.4493269992 | Transformation Layer (0-11): 11
+Average: 0.4553285827200001 +- 0.001694434633548449

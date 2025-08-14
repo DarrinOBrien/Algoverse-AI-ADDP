@@ -128,3 +128,11 @@ Set 3 Best Accuracy: 0.7467002519 | Number of training images: 19850 | Transform
 Set 4 Best Accuracy: 0.7515869018 | Number of training images: 15880 | Transformation Layer (0-11): 11
 Set 5 Best Accuracy: 0.7501259446 | Number of training images: 15880 | Transformation Layer (0-11): 11
 Average: 0.74831234258 +- 4.999714520216467e-06
+
+CLIP_ViT_Vision - SUN397: Ablation Base with Fine-Tuned Classifier
+Set 1 Best Accuracy: 0.6442821159000001 | Transformation Layer (0-11): 11
+Set 2 Best Accuracy: 0.6590428212 | Transformation Layer (0-11): 11
+Set 3 Best Accuracy: 0.6429219144 | Transformation Layer (0-11): 11
+Set 4 Best Accuracy: 0.6623677582 | Transformation Layer (0-11): 11
+Set 5 Best Accuracy: 0.6590428212 | Transformation Layer (0-11): 11
+Average: 0.65353148618 +- 6.73886389096622e-05

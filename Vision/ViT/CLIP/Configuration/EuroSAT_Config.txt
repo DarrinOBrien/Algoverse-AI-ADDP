@@ -131,3 +131,11 @@ Set 3 Best Accuracy: 0.9651851852000001 | Number of training images: 21600 | Tra
 Set 4 Best Accuracy: 0.9618518519 | Number of training images: 21600 | Transformation Layer (0-11): 6
 Set 5 Best Accuracy: 0.9585185185 | Number of training images: 12000 | Transformation Layer (0-11): 8
 Average: 0.96266666668 +- 8.526749061399206e-06
+
+CLIP_ViT_Vision - EuroSAT: Ablation Base with Fine-Tuned Classifier
+Set 1 Best Accuracy: 0.6496296296 | Transformation Layer (0-11): 11
+Set 2 Best Accuracy: 0.6444444444 | Transformation Layer (0-11): 11
+Set 3 Best Accuracy: 0.5925925926 | Transformation Layer (0-11): 10
+Set 4 Best Accuracy: 0.6825925926 | Transformation Layer (0-11): 11
+Set 5 Best Accuracy: 0.7077777778000001 | Transformation Layer (0-11): 11
+Average: 0.6554074074 +- 0.0015161920445190696
