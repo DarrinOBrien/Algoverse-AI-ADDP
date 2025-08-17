@@ -39,6 +39,10 @@ Average best loss: 0.031098724049949195, Best Accuracy: 0.9466666666666667
 Average best loss: 0.0306313919114642, Best Accuracy: 0.9488888888888889
 Average best loss: 0.03067269393156261, Best Accuracy: 0.9477777777777778
 
+3. Best Task Matrix: Average: 0.9577777778 +- 0.004164350258925031
+
+4. Best Base with Fine-Tuned Classifier: Average: 0.634 +- 0.04870709581442023
+
 
 Full; AdamW; Trained as many EPOCHS until no more improvement
 
