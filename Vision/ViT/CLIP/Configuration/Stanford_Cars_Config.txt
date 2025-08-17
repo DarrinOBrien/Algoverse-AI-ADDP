@@ -24,17 +24,16 @@ size_nums = [i for i in range(1, 40)] + [float('inf')]
 # CLIP_ViT_Vision - Stanford_Cars: Fine_Tuned_Layer_Skipping
 # Best Accuracy: 0.8313642582 | Number of training images: 784 | Transformation Layer (0-11): 11
 
-# Increment Fine-Tuning
-# 20 EPOCHS; 0-19; AdamW
+Increments; AdamW; Trained as many EPOCHS until no more improvement
+
+1. Fine-Tuned: Average: 0.575226961820669 +- 0.010352594726602882
 Average best loss: 0.31939761099361236, Best Accuracy: 0.5723168760104465
 Average best loss: 0.3223231121661171, Best Accuracy: 0.5745554035567716
 Average best loss: 0.3245584253753935, Best Accuracy: 0.5651038428056212
 Average best loss: 0.30631759748572396, Best Accuracy: 0.5881109314761845
 Average best loss: 0.3232123950644145, Best Accuracy: 0.5760477552543216
 
-
-# Increment Linear Probes
-# 20 EPOCHS; 0-19; AdamW
+2. Linear Probe: Average: 0.625668449197861 +- 0.0021700891565324953
 Average best loss: 0.25797020192184145, Best Accuracy: 0.626912075612486
 Average best loss: 0.26000908144882745, Best Accuracy: 0.6246735480661609
 Average best loss: 0.2588903858075066, Best Accuracy: 0.626663350329561
@@ -42,40 +41,32 @@ Average best loss: 0.259187893143722, Best Accuracy: 0.6230568337271484
 Average best loss: 0.2603783510743626, Best Accuracy: 0.6270364382539485
 
 
-# Extended Fine-Tuning; AdamW
-# Trained as many EPOCHS until no more improvement
-# Average: 0.827807486631016 +- 1.4479950185655694e-05
+Full; AdamW; Trained as many EPOCHS until no more improvement
 
+1. Fine-Tuned: Average: 0.827807486631016 +- 1.4479950185655694e-05
 Average best loss: 0.6089342767520557, Best Accuracy: 0.8271359283671185
 Average best loss: 0.5945949217984601, Best Accuracy: 0.8307424449695312
 Average best loss: 0.5995365751700269, Best Accuracy: 0.8307424449695312
 Average best loss: 0.6042730102226848, Best Accuracy: 0.8297475438378311
 Average best loss: 0.6212031108046335, Best Accuracy: 0.8206690710110682
 
-
-# Extended Training Linear Probes; AdamW
-# Trained as many EPOCHS until no more improvement
-# Average: 0.7998756373585375 +- 2.6378923178516626e-06
-
+2. Linear Probe: Average: 0.7998756373585375 +- 2.6378923178516626e-06
 Average best loss: 0.6634407565588989, Best Accuracy: 0.80089541101853
 Average best loss: 0.6611880637587063, Best Accuracy: 0.7976619823405049
 Average best loss: 0.6544124570985635, Best Accuracy: 0.8023877627160801
 Average best loss: 0.6624668840141523, Best Accuracy: 0.79940305932098
 Average best loss: 0.6597893546143222, Best Accuracy: 0.7990299713965925
 
-
-CLIP_ViT_Vision - Stanford_Cars: Base_Fine_Tuned
+3. Best Task Matrix: Average: 0.79733863946 +- 1.3824188999770709e-05
 Set 1 Best Accuracy: 0.797786345 | Number of training images: 8144 | Transformation Layer (0-11): 11
 Set 2 Best Accuracy: 0.8005223231 | Number of training images: 8144 | Transformation Layer (0-11): 11
 Set 3 Best Accuracy: 0.7928118393 | Number of training images: 8144 | Transformation Layer (0-11): 11
 Set 4 Best Accuracy: 0.7934336525 | Number of training images: 8144 | Transformation Layer (0-11): 11
 Set 5 Best Accuracy: 0.8021390374 | Number of training images: 8144 | Transformation Layer (0-11): 11
-Average: 0.79733863946 +- 1.3824188999770709e-05
 
-CLIP_ViT_Vision - Stanford_Cars: Ablation Base with Fine-Tuned Classifier
+4. Best Base with Fine-Tuned Classifier: Average: 0.53888819798 +- 0.00016908988684542916
 Set 1 Best Accuracy: 0.5379927870000001 | Transformation Layer (0-11): 11
 Set 2 Best Accuracy: 0.5378684243 | Transformation Layer (0-11): 11
 Set 3 Best Accuracy: 0.5167267753 | Transformation Layer (0-11): 11
 Set 4 Best Accuracy: 0.5565228205 | Transformation Layer (0-11): 11
 Set 5 Best Accuracy: 0.5453301828 | Transformation Layer (0-11): 11
-Average: 0.53888819798 +- 0.00016908988684542916

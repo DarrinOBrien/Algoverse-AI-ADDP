@@ -24,16 +24,16 @@ size_nums = [i for i in range(2, 64, 3)] + [1, 100, 150, 200, 250, 300, float('i
 # Best Accuracy: 0.9342857143000001 | Number of training images: 900 | Transformation Layer (0-11): 11
 
 
-# Increment Fine-Tuning
-# 20 EPOCHS; 0-19; AdamW
+Increments; AdamW; Trained as many EPOCHS until no more improvement
+
+1. Fine-Tuned: Average: 0.9171111111111111 +- 0.003624518670352961
 Average best loss: 0.052463185014861705, Best Accuracy: 0.9196825396825397
 Average best loss: 0.055354084795096306, Best Accuracy: 0.9142857142857143
 Average best loss: 0.05251333061793838, Best Accuracy: 0.9207936507936508
 Average best loss: 0.054151241637465326, Best Accuracy: 0.9152380952380952
 Average best loss: 0.053581038006402626, Best Accuracy: 0.9155555555555556
 
-# Increment Linear Probes
-# 20 EPOCHS; 0-19; AdamW
+2. Linear Probe: Average: 0.8809206349206349 +- 0.0010740926982376608
 Average best loss: 0.07305419453316264, Best Accuracy: 0.8807936507936508
 Average best loss: 0.07221856346786625, Best Accuracy: 0.8820634920634921
 Average best loss: 0.0732379323003268, Best Accuracy: 0.8796825396825397
@@ -41,40 +41,32 @@ Average best loss: 0.07300903341460108, Best Accuracy: 0.8807936507936508
 Average best loss: 0.07345930781177801, Best Accuracy: 0.8812698412698413
 
 
-# Extended Fine-Tuning; AdamW
-# Trained as many EPOCHS until no more improvement
-# Average: 0.923904761904762 +- 1.8317964222726227e-05
+Full; AdamW; Trained as many EPOCHS until no more improvement
 
+1. Fine-Tuned: Average: 0.923904761904762 +- 1.8317964222726227e-05
 Average best loss: 0.24557292687993573, Best Accuracy: 0.923968253968254
 Average best loss: 0.2733619456606296, Best Accuracy: 0.9157142857142857
 Average best loss: 0.23670300706689518, Best Accuracy: 0.9265079365079365
 Average best loss: 0.25972322158802374, Best Accuracy: 0.9255555555555556
 Average best loss: 0.2541241209902283, Best Accuracy: 0.9277777777777778
 
-
-# Extended Training Linear Probes; AdamW
-# Trained as many EPOCHS until no more improvement
-# Average: 0.9174603174603174 +- 2.1466364323508003e-06
-
+2. Linear Probe: Average: 0.9174603174603174 +- 2.1466364323508003e-06
 Average best loss: 0.25930245728655293, Best Accuracy: 0.9152380952380952
 Average best loss: 0.2619767767386605, Best Accuracy: 0.9165079365079365
 Average best loss: 0.25258085405397596, Best Accuracy: 0.9185714285714286
 Average best loss: 0.2548606938334427, Best Accuracy: 0.9176190476190477
 Average best loss: 0.2560591468531074, Best Accuracy: 0.9193650793650794
 
-
-CLIP_ViT_Vision - RESISC45: Base_Fine_Tuned
+3. Best Task Matrix: Average: 0.89114285716 +- 2.2357268921461335e-05
 Set 1 Best Accuracy: 0.8849206349000001 | Number of training images: 15120 | Transformation Layer (0-11): 11
 Set 2 Best Accuracy: 0.8874603175 | Number of training images: 11250 | Transformation Layer (0-11): 11
 Set 3 Best Accuracy: 0.8941269841 | Number of training images: 15120 | Transformation Layer (0-11): 11
 Set 4 Best Accuracy: 0.8982539683 | Number of training images: 15120 | Transformation Layer (0-11): 11
 Set 5 Best Accuracy: 0.8909523810000001 | Number of training images: 15120 | Transformation Layer (0-11): 11
-Average: 0.89114285716 +- 2.2357268921461335e-05
 
-CLIP_ViT_Vision - RESISC45: Ablation Base with Fine-Tuned Classifier
+4. Best Base with Fine-Tuned Classifier: Average: 0.73666666666 +- 0.00030332073488243815
 Set 1 Best Accuracy: 0.7158730159000001 | Transformation Layer (0-11): 11
 Set 2 Best Accuracy: 0.739047619 | Transformation Layer (0-11): 11
 Set 3 Best Accuracy: 0.7484126984 | Transformation Layer (0-11): 11
 Set 4 Best Accuracy: 0.7185714286 | Transformation Layer (0-11): 11
 Set 5 Best Accuracy: 0.7614285714 | Transformation Layer (0-11): 11
-Average: 0.73666666666 +- 0.00030332073488243815
