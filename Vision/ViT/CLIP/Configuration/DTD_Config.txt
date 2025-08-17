@@ -25,76 +25,32 @@ size_nums = [i for i in range(1, 40)] + [float('inf')]
 
 
 # Increment Fine-Tuning
-# Trained for 20 EPOCHS each
-
-# Train Split #0
-# [Epoch 9] Train Loss: 0.0082 | Validation Loss: 1.2940 | Validation Accuracy: 0.6316
-# Test Accuracy: 0.6596 
-
-# Train Split #1
-# [Epoch 11] Train Loss: 0.0074 | Validation Loss: 1.2987 | Validation Accuracy: 0.6316
-# Test Accuracy: 0.6617
-
-# Train Split #2
-# [Epoch 6] Train Loss: 0.0197 | Validation Loss: 1.2701 | Validation Accuracy: 0.6396
-# Test Accuracy: 0.6633
-
-# Train Split #3
-# [Epoch 5] Train Loss: 0.0450 | Validation Loss: 1.2737 | Validation Accuracy: 0.6569
-# Test Accuracy: 0.6617
-
-# Train Split #4
-# [Epoch 7] Train Loss: 0.0140 | Validation Loss: 1.3297 | Validation Accuracy: 0.6316
-# Test Accuracy: 0.6420
+# Trained for 100 EPOCHS each
+Average best loss: 0.23667759160200755, Best Accuracy: 0.6686170212765957
+Average best loss: 0.24693333029747008, Best Accuracy: 0.6622340425531915
+Average best loss: 0.23626146440704662, Best Accuracy: 0.6622340425531915
+Average best loss: 0.24663542002439498, Best Accuracy: 0.6654255319148936
+Average best loss: 0.23960875272750853, Best Accuracy: 0.6670212765957447
 
 
 # Increment Linear-Probing
-# Trained for 20 EPOCHS each
-
-# Train Split #0
-# [Epoch 18] Train Loss: 0.1555 | Validation Loss: 1.2797 | Validation Accuracy: 0.6463
-# Test Accuracy: 0.6723404255319149
-
-# Train Split #1
-# [Epoch 19] Train Loss: 0.1396 | Validation Loss: 1.2649 | Validation Accuracy: 0.6529
-# Test Accuracy: 0.673936170212766
-
-# Train Split #2
-# [Epoch 18] Train Loss: 0.1509 | Validation Loss: 1.2825 | Validation Accuracy: 0.6463
-# Test Accuracy: 0.6664893617021277
-
-# Train Split #3
-# [Epoch 19] Train Loss: 0.1341 | Validation Loss: 1.2962 | Validation Accuracy: 0.6396
-# 0.6648936170212766
-
-# Train Split #4
-# [Epoch 17] Train Loss: 0.1707 | Validation Loss: 1.2940 | Validation Accuracy: 0.6370
-# 0.6675531914893617
+# Trained for 100 EPOCHS each
+Average best loss: 0.23160535365343093, Best Accuracy: 0.676063829787234
+Average best loss: 0.23074631184339522, Best Accuracy: 0.6723404255319149
+Average best loss: 0.23376726627349853, Best Accuracy: 0.6691489361702128
+Average best loss: 0.23335789173841476, Best Accuracy: 0.6654255319148936
+Average best loss: 0.23229329019784928, Best Accuracy: 0.6771276595744681
 
 
 # Extended Fine-Tuning; AdamW
 # Trained as many EPOCHS until no more improvement
 # Average: 0.7748936170212766 +- 0.00011491625169760098
 
-# 1
-# Average base loss: 4.010971188545227, Base Accuracy: 0.02553191489361702
-# Average best loss: 0.8047927501300971, Best Accuracy: 0.7617021276595745
-
-# 2
-# Average base loss: 3.949810520807902, Base Accuracy: 0.02553191489361702
-# Average best loss: 0.8073461319009463, Best Accuracy: 0.7755319148936171
-
-# 3
-# Average base loss: 4.038798403739929, Base Accuracy: 0.022340425531914895
-# Average best loss: 0.7822892812391122, Best Accuracy: 0.7909574468085107
-
-# 4
-# Average base loss: 4.061626013120016, Base Accuracy: 0.013297872340425532
-# Average best loss: 0.7913179513067007, Best Accuracy: 0.7813829787234042
-
-# 5
-# Average base loss: 4.057653331756592, Base Accuracy: 0.019680851063829788
-# Average best loss: 0.8085977143297592, Best Accuracy: 0.7648936170212766
+Average best loss: 0.8047927501300971, Best Accuracy: 0.7617021276595745
+Average best loss: 0.8073461319009463, Best Accuracy: 0.7755319148936171
+Average best loss: 0.7822892812391122, Best Accuracy: 0.7909574468085107
+Average best loss: 0.7913179513067007, Best Accuracy: 0.7813829787234042
+Average best loss: 0.8085977143297592, Best Accuracy: 0.7648936170212766
 
 
 
@@ -102,25 +58,11 @@ size_nums = [i for i in range(1, 40)] + [float('inf')]
 # Trained as many EPOCHS until no more improvement
 # Average: 0.772127659574468 +- 6.858306926210879e-06
 
-# 1
-# Average base loss: 4.0072173515955605, Base Accuracy: 0.022340425531914895
-# Average best loss: 0.7754155536492665, Best Accuracy: 0.774468085106383
-
-# 2
-# Average base loss: 4.0178287903467815, Base Accuracy: 0.010638297872340425
-# Average best loss: 0.7754442324241002, Best Accuracy: 0.7734042553191489
-
-# 3
-# Average base loss: 4.009781074523926, Base Accuracy: 0.01648936170212766
-# Average best loss: 0.7610054917633533, Best Accuracy: 0.7728723404255319
-
-# 4
-# Average base loss: 4.008995421727499, Base Accuracy: 0.023936170212765957
-# Average best loss: 0.7610054917633533, Best Accuracy: 0.7728723404255319
-
-# 5
-# Average base loss: 4.042486270268758, Base Accuracy: 0.014893617021276596
-# Average best loss: 0.7619340491791566, Best Accuracy: 0.7670212765957447
+Average best loss: 0.7754155536492665, Best Accuracy: 0.774468085106383
+Average best loss: 0.7754442324241002, Best Accuracy: 0.7734042553191489
+Average best loss: 0.7610054917633533, Best Accuracy: 0.7728723404255319
+Average best loss: 0.7610054917633533, Best Accuracy: 0.7728723404255319
+Average best loss: 0.7619340491791566, Best Accuracy: 0.7670212765957447
 
 
 CLIP_ViT_Vision - DTD: Base_Fine_Tuned

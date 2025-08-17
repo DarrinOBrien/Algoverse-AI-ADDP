@@ -25,100 +25,42 @@ size_nums = [i for i in range(1, 26)] + [float('inf')]
 
 # Fine-Tune Increments
 # 20 EPOCHS; 0-19; AdamW
-
-# Subset 0
-# [Epoch 8] Train Loss: 0.0096 | Validation Loss: 1.2479 | Validation Accuracy: 0.6678
-# Test Accuracy: 0.6686
-
-# Subset 1
-# [Epoch 8] Train Loss: 0.0095 | Validation Loss: 1.2272 | Validation Accuracy: 0.6688
-# Test Accuracy: 0.6673
-
-# Subset 2
-# [Epoch 9] Train Loss: 0.0082 | Validation Loss: 1.2307 | Validation Accuracy: 0.6700
-# Test Accuracy: 0.6728
-
-# Subset 3
-# [Epoch 8] Train Loss: 0.0098 | Validation Loss: 1.2264 | Validation Accuracy: 0.6715
-# Test Accuracy: 0.6670
-
-# Subset 4
-# [Epoch 9] Train Loss: 0.0080 | Validation Loss: 1.2313 | Validation Accuracy: 0.6761
-# Test Accuracy: 0.6711
+Average best loss: 0.24734891315748453, Best Accuracy: 0.6644836272040302
+Average best loss: 0.24994359842450672, Best Accuracy: 0.6670025188916877
+Average best loss: 0.24880115230750424, Best Accuracy: 0.6684130982367759
+Average best loss: 0.2469012731141216, Best Accuracy: 0.6741561712846348
+Average best loss: 0.24886971760984403, Best Accuracy: 0.6725944584382871
 
 
 # Linear Probe Increments
 # 20 EPOCHS; 0-19; AdamW
-
-# Subset 0
-# [Epoch 16] Train Loss: 0.0318 | Validation Loss: 1.2677 | Validation Accuracy: 0.6557
-# Test Accuracy: 0.6640806045340051
-
-# Subset 1
-# [Epoch 18] Train Loss: 0.0270 | Validation Loss: 1.2613 | Validation Accuracy: 0.6587
-# Test Accuracy: 0.6630226700251889
-
-# Subset 2
-# [Epoch 17] Train Loss: 0.0297 | Validation Loss: 1.2590 | Validation Accuracy: 0.6562
-# Test Accuracy: 0.6636272040302267
-
-# Subset 3
-# [Epoch 19] Train Loss: 0.0245 | Validation Loss: 1.2585 | Validation Accuracy: 0.6587
-# Test Accuracy: 0.6630226700251889
-
-# Subset 4
-# [EPOCH 19]
-# Test Accuracy: 0.663073047858942
+Average best loss: 0.24794618483524997, Best Accuracy: 0.6636775818639798
+Average best loss: 0.24821257378510725, Best Accuracy: 0.6658438287153653
+Average best loss: 0.24763583368427117, Best Accuracy: 0.665088161209068
+Average best loss: 0.24821969102049948, Best Accuracy: 0.665088161209068
+Average best loss: 0.2480421610679657, Best Accuracy: 0.6675062972292192
 
 
 # Extended Fine-Tuning; AdamW
 # Trained as many EPOCHS until no more improvement
 # Average: 0.7457934508816121 +- 7.612763230526308e-06
 
-# 1
-# Average base loss: 6.135312739675834, Base Accuracy: 0.0024685138539042822
-# Average best loss: 0.9805529125729557, Best Accuracy: 0.7438790931989925
-
-# 2
-# Average base loss: 6.1267490877599196, Base Accuracy: 0.00327455919395466
-# Average best loss: 0.9885024411597819, Best Accuracy: 0.7422166246851385
-
-# 3
-# Average base loss: 6.147096411591558, Base Accuracy: 0.005037783375314861
-# Average best loss: 0.9834469238421925, Best Accuracy: 0.7455919395465995
-
-# 4
-# Average base loss: 6.140932952476084, Base Accuracy: 0.00327455919395466
-# Average best loss: 0.9709971356190669, Best Accuracy: 0.7470025188916877
-
-# 5
-# Average base loss: 6.124494805596649, Base Accuracy: 0.003375314861460957
-# Average best loss: 0.9786417846391247, Best Accuracy: 0.7502770780856424
+Average best loss: 0.9805529125729557, Best Accuracy: 0.7438790931989925
+Average best loss: 0.9885024411597819, Best Accuracy: 0.7422166246851385
+Average best loss: 0.9834469238421925, Best Accuracy: 0.7455919395465995
+Average best loss: 0.9709971356190669, Best Accuracy: 0.7470025188916877
+Average best loss: 0.9786417846391247, Best Accuracy: 0.7502770780856424
 
 
 # Extended Training Linear Probes; AdamW
 # Trained as many EPOCHS until no more improvement
 # Average: 0.7387607052896725 +- 6.980921140290319e-06
 
-# 1
-# Average base loss: 6.146183361961144, Base Accuracy: 0.002216624685138539
-# Average best loss: 0.9098717239460761, Best Accuracy: 0.7364231738035264
-
-# 2
-# Average base loss: 6.108999247719621, Base Accuracy: 0.001561712846347607
-# Average best loss: 0.9095222107179679, Best Accuracy: 0.7398488664987406
-
-# 3
-# Average base loss: 6.143118902801318, Base Accuracy: 0.0025692695214105795
-# Average best loss: 0.90031261825964, Best Accuracy: 0.7423173803526448
-
-# 4
-# Average base loss: 6.163670470860227, Base Accuracy: 0.0021662468513853903
-# Average best loss: 0.9046981239577582, Best Accuracy: 0.7401511335012595
-
-# 5
-# Average base loss: 6.1500588950620205, Base Accuracy: 0.0023173803526448365
-# Average best loss: 0.9125201248854303, Best Accuracy: 0.7350629722921914
+Average best loss: 0.9098717239460761, Best Accuracy: 0.7364231738035264
+Average best loss: 0.9095222107179679, Best Accuracy: 0.7398488664987406
+Average best loss: 0.90031261825964, Best Accuracy: 0.7423173803526448
+Average best loss: 0.9046981239577582, Best Accuracy: 0.7401511335012595
+Average best loss: 0.9125201248854303, Best Accuracy: 0.7350629722921914
 
 
 CLIP_ViT_Vision - SUN397: Base_Fine_Tuned
