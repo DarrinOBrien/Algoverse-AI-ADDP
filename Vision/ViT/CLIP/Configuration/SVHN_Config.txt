@@ -70,3 +70,28 @@ Set 2 Best Accuracy: 0.2174631223 | Transformation Layer (0-11): 11
 Set 3 Best Accuracy: 0.2428549478 | Transformation Layer (0-11): 11
 Set 4 Best Accuracy: 0.2676321451 | Transformation Layer (0-11): 11
 Set 5 Best Accuracy: 0.2425092194 | Transformation Layer (0-11): 11
+
+
+Fine-Tuning with Frozen Classifier Head; AdamW; Trained as many EPOCHS until no more improvement
+
+1. Fine-Tuned: 0.9635295021511986 +- 0.0017123373003025133
+Average base loss: 2.4858656374769654, Base Accuracy: 0.08186078672403196
+Average best loss: 0.12471241832548335, Best Accuracy: 0.9658881376767056
+Average best loss: 0.13465436768239816, Best Accuracy: 0.9632759680393362
+Average best loss: 0.13462124824299676, Best Accuracy: 0.9633912108174555
+Average best loss: 0.13986977996734826, Best Accuracy: 0.9624308543331285
+Average best loss: 0.14672401345149597, Best Accuracy: 0.962661339889367
+
+2. Best Task Matrix: Average: 0.6774124154800001, Error: +- 0.008792907883791168
+Set 1 Best Accuracy: 0.6776659496 | Number of training images: 73257 | Transformation Layer (0-11): 8
+Set 2 Best Accuracy: 0.683504917 | Number of training images: 73257 | Transformation Layer (0-11): 8
+Set 3 Best Accuracy: 0.6662185003000001 | Number of training images: 73257 | Transformation Layer (0-11): 8
+Set 4 Best Accuracy: 0.6762062077000001 | Number of training images: 73257 | Transformation Layer (0-11): 8
+Set 5 Best Accuracy: 0.6834665028 | Number of training images: 73257 | Transformation Layer (0-11): 8
+
+3. Best Base with Fine-Tuned Classifier: Average: 0.17881837738, Error: +- 0.022949512201664773
+Set 1 Best Accuracy: 0.18335126000000002 | Transformation Layer (0-11): 6
+Set 2 Best Accuracy: 0.15938076210000002 | Transformation Layer (0-11): 8
+Set 3 Best Accuracy: 0.15938076210000002 | Transformation Layer (0-11): 0
+Set 4 Best Accuracy: 0.1954517517 | Transformation Layer (0-11): 7
+Set 5 Best Accuracy: 0.19652735100000002 | Transformation Layer (0-11): 10
