@@ -1,26 +1,4 @@
 dataset = load_dataset('tanganke/eurosat', cache_dir="/workspace/.hf_cache") # https://huggingface.co/datasets/tanganke/eurosat
-num_classes = 10
-dataset_name = "EuroSAT"
-size_nums = [i for i in range(1, 28)] + [i for i in range(40, 150, 10)] + [300, 600, 1200, float('inf')] 
-
-# Fine-Tuning Results
-# Adam; 20 EPOCHS; 0-19; 
-# [Epoch 17] Train Loss: 0.0155 | Validation Loss: 0.0644 | Validation Accuracy: 0.9822
-# Average base loss: 2.3987, Base Accuracy: 0.1278
-# Average best loss: 0.0502, Best Accuracy: 0.9859
-
-# Linear Probe Results
-# AdamW
-# 20 EPOCHS; 0-19
-# [Epoch 14] Train Loss: 0.0835 | Validation Loss: 0.1227 | Validation Accuracy: 0.9602
-# Average base loss: 2.4966, Base Accuracy: 0.1804
-# Average best loss: 0.1210, Best Accuracy: 0.9567
-
-# Best Augmented Accuracy:
-# CLIP_ViT_Vision - EuroSAT: Base_Fine_Tuned
-# Best Accuracy: 0.9655555556000001 | Number of training images: 17280 | Transformation Layer (0-11): 6
-# CLIP_ViT_Vision - EuroSAT: Fine_Tuned_Layer_Skipping
-# Best Accuracy: 0.9866666667 | Number of training images: 10 | Transformation Layer (0-11): 11
 
 
 Increments; AdamW; Trained as many EPOCHS until no more improvement

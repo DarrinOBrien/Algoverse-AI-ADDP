@@ -1,25 +1,4 @@
 dataset = load_dataset("ufldl-stanford/svhn", "cropped_digits", cache_dir="/workspace/.hf_cache") # https://huggingface.co/datasets/ufldl-stanford/svhn
-num_classes = 10
-dataset_name = "SVHN"
-size_nums = [i for i in range(5, 260, 10)] + [1, 260, float('inf')]
-
-# Fine-Tuning Results
-# Trained 20 EPOCHS; 0-19
-# [Epoch 3] Train Loss: 0.0960 | Validation Loss: 0.1919 | Validation Accuracy: 0.9512
-# Average base loss: 2.5075, Base Accuracy: 0.0706
-# Average best loss: 0.1317, Best Accuracy: 0.9662
-
-# Linear Probe Results
-# Trained 20 EPOCHS; 0-19
-# [Epoch 17] Train Loss: 1.0726 | Validation Loss: 1.1352 | Validation Accuracy: 0.6200
-# Average base loss: 2.4184, Base Accuracy: 0.0969
-# Average best loss: 1.0309, Best Accuracy: 0.6546
-
-# Best Augmented Accuracy
-# CLIP_ViT_Vision - SVHN: Base_Fine_Tuned
-# Best Accuracy: 0.6726336816 | Number of training images: 58605 | Transformation Layer (0-11): 8
-# CLIP_ViT_Vision - SVHN: Fine_Tuned_Layer_Skipping
-# Best Accuracy: 0.9664259373 | Number of training images: 350 | Transformation Layer (0-11): 11
 
 Increments; AdamW; Trained as many EPOCHS until no more improvement
 

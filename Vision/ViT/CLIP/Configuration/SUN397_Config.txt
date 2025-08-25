@@ -1,27 +1,5 @@
 dataset = load_dataset('tanganke/sun397', cache_dir="/workspace/.hf_cache") # https://huggingface.co/datasets/tanganke/sun397
-num_classes = 397
-dataset_name = "SUN397"
-size_nums = [i for i in range(1, 26)] + [float('inf')] 
 
-# Fine-Tuning Results
-# AdamW
-# Trained 20 EPOCHS; 0-19
-# [Epoch 4] Train Loss: 0.0204 | Validation Loss: 0.9704 | Validation Accuracy: 0.7501
-# Average base loss: 6.1579, Base Accuracy: 0.0028
-# Average best loss: 1.0010, Best Accuracy: 0.7391
-
-# Linear Probe Results
-# AdamW
-# Trained 20 EPOCHS; 0-19
-# [Epoch 2] Train Loss: 0.4786 | Validation Loss: 0.9067 | Validation Accuracy: 0.7411
-# Average base loss: 6.1568, Base Accuracy: 0.0022
-# Average best loss: 0.9123, Best Accuracy: 0.7385
-
-# Best Augmented Accuracy
-# CLIP_ViT_Vision - SUN397: Base_Fine_Tuned
-# Best Accuracy: 0.7444332494 | Number of training images: 9925 | Transformation Layer (0-11): 11
-# CLIP_ViT_Vision - SUN397: Fine_Tuned_Layer_Skipping
-# Best Accuracy: 0.7391435768 | Number of training images: 794 | Transformation Layer (0-11): 11
 
 Increments; AdamW; Trained as many EPOCHS until no more improvement
 
