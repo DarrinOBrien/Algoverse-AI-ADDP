@@ -1,25 +1,21 @@
 dataset = load_dataset('tanganke/dtd', cache_dir="/workspace/.hf_cache") # https://huggingface.co/datasets/tanganke/dtd
-num_classes = 47
-dataset_name = "DTD"
-size_nums = [i for i in range(1, 40)] #10
-size_nums.append(float('inf'))
 
-# Fine-Tuning Results
-# AdamW
-# Trained for 20 EPOCHS; 0-19
-# [Epoch 1] Train Loss: 0.8610 | Validation Loss: 1.1849 | Validation Accuracy: 0.6636
-# Average base loss: 4.0973, Base Accuracy: 0.0303
-# Average best loss: 1.1870, Best Accuracy: 0.6574
+Full; AdamW; Trained as many EPOCHS until no more improvement
 
-# Linear Probe Results
-# AdamW
-# Trained for 20 EPOCHS; 0-19
-# [Epoch 15] Train Loss: 0.6711 | Validation Loss: 1.3226 | Validation Accuracy: 0.6130
-# Average base loss: 4.2515, Base Accuracy: 0.0112
-# Average best loss: 1.2748, Best Accuracy: 0.6335
+1. Fine-Tuned:
+Average best loss: 0.23572815593569837, Best Accuracy: 0.6824468085106383
+Average best loss: 0.23293841429371784, Best Accuracy: 0.6712765957446809
+Average best loss: 0.23362321628218002, Best Accuracy: 0.6702127659574468
+Average best loss: 0.23329852841635967, Best Accuracy: 0.674468085106383
+Average best loss: 0.23678810839323286, Best Accuracy: 0.6718085106382978
 
-# Best Augmented Accuracy
-# CLIP_ViT_Vision - DTD: Base_Fine_Tuned
-# Best Accuracy: 0.6122340426 | Number of training images: 1692 | Transformation Layer (0-11): 10
-# CLIP_ViT_Vision - DTD: Fine_Tuned_Layer_Skipping
-# Best Accuracy: 0.660106383 | Number of training images: 799 | Transformation Layer (0-11): 10
+2. Linear Probe:
+Average best loss: 0.2616690625123521, Best Accuracy: 0.6335106382978724
+Average best loss: 0.2624715776424459, Best Accuracy: 0.6303191489361702
+Average best loss: 0.2632247526499819, Best Accuracy: 0.6382978723404256
+Average best loss: 0.2603760523111262, Best Accuracy: 0.6340425531914894
+Average best loss: 0.2609725782655655, Best Accuracy: 0.6313829787234042
+
+3. Task Matrices:
+
+4. Base with Fine-Tuned Classifier:

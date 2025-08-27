@@ -1,30 +1,22 @@
 dataset = load_dataset('tanganke/eurosat', cache_dir="/workspace/.hf_cache") # https://huggingface.co/datasets/tanganke/eurosat
-dataset_name = "EuroSAT"
-num_classes = 10
-size_nums = [i for i in range(1, 28)] # Start from 1,2,3,4,5,...->27. 27 total. 
-for i in range(40, 150, 10): # Adds {40, 50, 60, ...140}. 11 + 27 -> 38.
-    size_nums.append(i)
-size_nums.append(300) # 39. 
-size_nums.append(600) # 40
-size_nums.append(1200) # 41
-size_nums.append(float('inf')) # 41. range(41)
 
-# Fine-Tuning Results
-# Adam
-# Trained for 20 EPOCHS; 0-19
-# [Epoch 7] Train Loss: 0.0127 | Validation Loss: 0.0483 | Validation Accuracy: 0.9856
-# Average base loss: 2.4745, Base Accuracy: 0.0989
-# Average best loss: 0.0420, Best Accuracy: 0.9867
 
-# Linear Probe Results
-# AdamW
-# Trained for 20 EPOCHS; 0-19
-# [Epoch 15] Train Loss: 0.1530 | Validation Loss: 0.1763 | Validation Accuracy: 0.9419
-# Average base loss: 2.6058, Base Accuracy: 0.0804
-# Average best loss: 0.1819, Best Accuracy: 0.9356
+Full; AdamW; Trained as many EPOCHS until no more improvement
 
-# Best Augmented Accuracy
-# CLIP_ViT_Vision - EuroSAT: Base_Fine_Tuned
-# Best Accuracy: 0.9492592593 | Number of training images: 17280 | Transformation Layer (0-11): 5
-# CLIP_ViT_Vision - EuroSAT: Fine_Tuned_Layer_Skipping
-# Best Accuracy: 0.987037037 | Number of training images: 900 | Transformation Layer (0-11): 10
+1. Fine-Tuned:
+Average best loss: 0.01208426269330248, Best Accuracy: 0.9818518518518519
+Average best loss: 0.012512797730336301, Best Accuracy: 0.9781481481481481
+Average best loss: 0.011262032236366733, Best Accuracy: 0.9811111111111112
+Average best loss: 0.012496881115245242, Best Accuracy: 0.9811111111111112
+Average best loss: 0.0110966199878301, Best Accuracy: 0.9781481481481481
+
+2. Linear Probe:
+Average best loss: 0.038377834321408684, Best Accuracy: 0.9344444444444444
+Average best loss: 0.03878529908047877, Best Accuracy: 0.9337037037037037
+Average best loss: 0.03717168915780499, Best Accuracy: 0.9340740740740741
+Average best loss: 0.038475752153020376, Best Accuracy: 0.9348148148148148
+Average best loss: 0.038205030032611983, Best Accuracy: 0.9344444444444444
+
+3. Task Matrices:
+
+4. Base with Fine-Tuned Classifier:

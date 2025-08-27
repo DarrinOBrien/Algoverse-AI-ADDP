@@ -1,24 +1,22 @@
 dataset = load_dataset("tanganke/stanford_cars", cache_dir="/workspace/.hf_cache") # https://huggingface.co/datasets/tanganke/stanford_cars
-dataset_name = "Stanford_Cars"
-num_classes = 196
-size_nums = [i for i in range(1, 40)] # Start from 1,2,3,4,...->39. There are around 40 images per class in the test dataset. Only want max 20 images per class for learning matrix. 
-size_nums.append(float('inf')) # 40. range(40)
 
-# Fine-Tuning Results
-# AdamW
-# Trained 20 EPOCHS; 0-19
-# [Epoch 3] Train Loss: 0.2589 | Validation Loss: 1.7594 | Validation Accuracy: 0.5384
-# Average base loss: 5.5676, Base Accuracy: 0.0063
-# Average best loss: 1.7982, Best Accuracy: 0.5374
 
-# Linear Probe Results
-# AdamW
-# [Epoch 19] Train Loss: 1.6559 | Validation Loss: 3.1437 | Validation Accuracy: 0.2695
-# Average base loss: 5.6392, Base Accuracy: 0.0035
-# Average best loss: 3.1100, Best Accuracy: 0.2704
+Full; AdamW; Trained as many EPOCHS until no more improvement
 
-# Best Augmented Accuracy
-# CLIP_ViT_Vision - Stanford_Cars: Base_Fine_Tuned
-# Best Accuracy: 0.30555901010000003 | Number of training images: 6407 | Transformation Layer (0-11): 9
-# CLIP_ViT_Vision - Stanford_Cars: Fine_Tuned_Layer_Skipping
-# Best Accuracy: 0.5373709738 | Number of training images: 196 | Transformation Layer (0-11): 11
+1. Fine-Tuned:
+Average best loss: 0.37504656124660085, Best Accuracy: 0.5134933465986817
+Average best loss: 0.39315598447386835, Best Accuracy: 0.492351697550056
+Average best loss: 0.3802121833922197, Best Accuracy: 0.5123740828255192
+Average best loss: 0.38626480020182746, Best Accuracy: 0.5018032583012063
+Average best loss: 0.3763330661249208, Best Accuracy: 0.519960203954732
+
+2. Linear Probe:
+Average best loss: 0.6329607105900943, Best Accuracy: 0.2636487999005099
+Average best loss: 0.6341427785442554, Best Accuracy: 0.2610371844297973
+Average best loss: 0.6331240274471269, Best Accuracy: 0.26340007461758486
+Average best loss: 0.6376523290192394, Best Accuracy: 0.26265389876880985
+Average best loss: 0.6353100604494334, Best Accuracy: 0.2643949757492849
+
+3. Task Matrices:
+
+4. Base with Fine-Tuned Classifier:

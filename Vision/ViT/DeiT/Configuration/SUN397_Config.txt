@@ -1,25 +1,22 @@
 dataset = load_dataset('tanganke/sun397', cache_dir="/workspace/.hf_cache") # https://huggingface.co/datasets/tanganke/sun397
-dataset_name = "SUN397"
-num_classes = 397
-size_nums = [i for i in range(1, 28)] # Start from 1,2,3,4,...->25. 27 total.
-size_nums.extend([30, 35, float('inf')]) # add 3. range(30)
 
-# Fine-Tuning Results
-# AdamW
-# Trained for 20 EPOCHS; 0-19
-# [Epoch 1] Train Loss: 1.2149 | Validation Loss: 1.8078 | Validation Accuracy: 0.5244
-# Average base loss: 6.2830, Base Accuracy: 0.0035
-# Average best loss: 1.8192, Best Accuracy: 0.5276
 
-# Linear Probe Results
-# AdamW
-# Trained for 20 EPOCHS; 0-19
-# [Epoch 6] Train Loss: 1.0436 | Validation Loss: 1.8890 | Validation Accuracy: 0.5176
-# Average base loss: 6.2488, Base Accuracy: 0.0035
-# Average best loss: 1.8676, Best Accuracy: 0.5128
+Full; AdamW; Trained as many EPOCHS until no more improvement
 
-# Best Accuracy
-# CLIP_ViT_Vision - SUN397: Base_Fine_Tuned
-# Best Accuracy: 0.4596473552 | Number of training images: 11910 | Transformation Layer (0-11): 11
-# CLIP_ViT_Vision - SUN397: Fine_Tuned_Layer_Skipping
-# Best Accuracy: 0.5275566751 | Number of training images: 397 | Transformation Layer (0-11): 11
+1. Fine-Tuned:
+Average best loss: 0.3329952824033803, Best Accuracy: 0.5515365239294711
+Average best loss: 0.33268908172377554, Best Accuracy: 0.5519395465994962
+Average best loss: 0.33537383332666937, Best Accuracy: 0.5493198992443324
+Average best loss: 0.33743545995900626, Best Accuracy: 0.5505793450881612
+Average best loss: 0.33140836926147127, Best Accuracy: 0.5560705289672544
+
+2. Linear Probe:
+Average best loss: 0.38965085708055164, Best Accuracy: 0.49863979848866496
+Average best loss: 0.3961102773500329, Best Accuracy: 0.49042821158690175
+Average best loss: 0.39413918502092976, Best Accuracy: 0.49370277078085645
+Average best loss: 0.39459863158962016, Best Accuracy: 0.49188916876574307
+Average best loss: 0.3924807008695064, Best Accuracy: 0.49219143576826196
+
+3. Task Matrices:
+
+4. Base with Fine-Tuned Classifier:

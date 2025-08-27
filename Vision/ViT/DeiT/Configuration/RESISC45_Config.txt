@@ -1,25 +1,21 @@
 dataset = load_dataset('tanganke/resisc45', cache_dir="/workspace/.hf_cache") # https://huggingface.co/datasets/tanganke/resisc45
-dataset_name = "RESISC45"
-num_classes = 45
-size_nums = [i for i in range(2, 64, 3)] # Start from 1,2,3,4,...->14. 21 total.
-size_nums.extend([1, 100, 150, 200, 250, 300, float('inf')]) # 7. 28 total. range(28)
 
-# Fine-Tuning Results
-# AdamW
-# Trained 20 EPOCHS; 0-19
-# [Epoch 7] Train Loss: 0.0230 | Validation Loss: 0.3634 | Validation Accuracy: 0.9005
-# Average base loss: 4.2317, Base Accuracy: 0.0121
-# Average best loss: 0.3345, Best Accuracy: 0.9052
+Full; AdamW; Trained as many EPOCHS until no more improvement
 
-# Linear Probe Results
-# AdamW
-# Trained 20 EPOCHS; 0-19
-# [Epoch 1] Train Loss: 0.2072 | Validation Loss: 0.3816 | Validation Accuracy: 0.8844
-# Average base loss: 4.0661, Base Accuracy: 0.0216
-# Average best loss: 0.6461, Best Accuracy: 0.7983
+1. Fine-Tuned:
+Average best loss: 0.06622771260455718, Best Accuracy: 0.8949206349206349
+Average best loss: 0.06604846712083794, Best Accuracy: 0.8949206349206349
+Average best loss: 0.06790860350708226, Best Accuracy: 0.8882539682539683
+Average best loss: 0.06790908743501203, Best Accuracy: 0.8922222222222222
+Average best loss: 0.0671540671803511, Best Accuracy: 0.8946031746031746
 
-# Best Augmented Accuracy
-# CLIP_ViT_Vision - RESISC45: Base_Fine_Tuned
-# Best Accuracy: 0.7579365079 | Number of training images: 15120 | Transformation Layer (0-11): 8
-# CLIP_ViT_Vision - RESISC45: Fine_Tuned_Layer_Skipping
-# Best Accuracy: 0.9052380952 | Number of training images: 225 | Transformation Layer (0-11): 11
+2. Linear Probe:
+Average best loss: 0.13323589963121943, Best Accuracy: 0.7926984126984127
+Average best loss: 0.1331707909483277, Best Accuracy: 0.7944444444444444
+Average best loss: 0.13459278039313938, Best Accuracy: 0.7895238095238095
+Average best loss: 0.13375087347281103, Best Accuracy: 0.7922222222222223
+Average best loss: 0.13387145507267587, Best Accuracy: 0.7880952380952381
+
+3. Task Matrices:
+
+4. Base with Fine-Tuned Classifier:
