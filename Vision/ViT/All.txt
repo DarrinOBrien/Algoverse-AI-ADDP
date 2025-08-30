@@ -8,8 +8,13 @@ dataset = load_dataset("tanganke/stanford_cars", cache_dir="/workspace/.hf_cache
 dataset = load_dataset('tanganke/sun397', cache_dir="/workspace/.hf_cache") # https://huggingface.co/datasets/tanganke/sun397
 dataset = load_dataset("ufldl-stanford/svhn", "cropped_digits", cache_dir="/workspace/.hf_cache") # https://huggingface.co/datasets/ufldl-stanford/svhn
 
-# Fine Tuned, Linear Probe, and Reverse Probe Setups:
+# Model Loading Checkpoints
+refer = CLIPForImageClassification.from_pretrained("openai/clip-vit-base-patch32")
+refer = ViTForImageClassification.from_pretrained("facebook/deit-tiny-patch16-224")
+
+# Fine Tuned, Linear Probe, and Reverse Probe (refiner) Setups:
 1. Trained 5 seperate times within 500 epochs, stopped training if there was no improvement after 25 epochs.
 2. AdamW optimizer, encoder learning rate = 1e-5, classifier head learning rate = 1e-3, weight decay = 0.01, and batch size = (64, CLIP), (Standard, 8), [(Increment Training, 64), DeiT].
 3. For Increment Training, datasets were split into 5 equal subsets with the same number of images per label before each being used once for updating. 
 4. For Reverse Probe Training (Frozezen Classifier Head), the classifier head was frozen while the encoder was updated. 
+5. 2 (refining type) * 2 (refiner) * 8 (datasets) * 5 (reps) = 160 total trained models
