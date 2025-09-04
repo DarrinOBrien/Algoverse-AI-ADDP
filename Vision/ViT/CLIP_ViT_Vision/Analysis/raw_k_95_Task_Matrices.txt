@@ -1,0 +1,1530 @@
+k: 95.000000% energy: 314
+k: 95.000000% energy: 305
+k: 95.000000% energy: 305
+k: 95.000000% energy: 303
+k: 95.000000% energy: 316
+DTD_ - Mean: 308.6 +- 7.377198031811815
+k: 95.000000% energy: 55
+k: 95.000000% energy: 111
+k: 95.000000% energy: 82
+k: 95.000000% energy: 111
+k: 95.000000% energy: 91
+EuroSAT_ - Mean: 90.0 +- 28.933701976214564
+k: 95.000000% energy: 53
+k: 95.000000% energy: 58
+k: 95.000000% energy: 60
+k: 95.000000% energy: 57
+k: 95.000000% energy: 48
+GTSRB_ - Mean: 55.2 +- 5.915848146857961
+k: 95.000000% energy: 11
+k: 95.000000% energy: 65
+k: 95.000000% energy: 16
+k: 95.000000% energy: 50
+k: 95.000000% energy: 25
+MNIST_ - Mean: 33.4 +- 28.781439366145683
+k: 95.000000% energy: 267
+k: 95.000000% energy: 271
+k: 95.000000% energy: 263
+k: 95.000000% energy: 258
+k: 95.000000% energy: 255
+RESISC45_ - Mean: 262.8 +- 8.066038943816977
+k: 95.000000% energy: 343
+k: 95.000000% energy: 347
+k: 95.000000% energy: 337
+k: 95.000000% energy: 333
+k: 95.000000% energy: 333
+Stanford_Cars_ - Mean: 338.6 +- 7.734281091096477
+k: 95.000000% energy: 548
+k: 95.000000% energy: 549
+k: 95.000000% energy: 539
+k: 95.000000% energy: 548
+k: 95.000000% energy: 545
+SUN397_ - Mean: 545.8 +- 5.074138586013419
+k: 95.000000% energy: 17
+k: 95.000000% energy: 14
+k: 95.000000% energy: 18
+k: 95.000000% energy: 14
+k: 95.000000% energy: 18
+SVHN_ - Mean: 16.2 +- 2.5446539714917087
+k: 95.000000% energy: 82
+k: 95.000000% energy: 179
+k: 95.000000% energy: 116
+k: 95.000000% energy: 166
+k: 95.000000% energy: 142
+DTD_EuroSAT_ - Mean: 137.0 +- 48.47262871228972
+k: 95.000000% energy: 74
+k: 95.000000% energy: 78
+k: 95.000000% energy: 83
+k: 95.000000% energy: 77
+k: 95.000000% energy: 71
+DTD_GTSRB_ - Mean: 76.6 +- 5.594381872382144
+k: 95.000000% energy: 11
+k: 95.000000% energy: 85
+k: 95.000000% energy: 16
+k: 95.000000% energy: 55
+k: 95.000000% energy: 26
+DTD_MNIST_ - Mean: 38.6 +- 38.53761814586607
+k: 95.000000% energy: 314
+k: 95.000000% energy: 312
+k: 95.000000% energy: 303
+k: 95.000000% energy: 300
+k: 95.000000% energy: 305
+DTD_RESISC45_ - Mean: 306.8 +- 7.418877448397609
+k: 95.000000% energy: 406
+k: 95.000000% energy: 403
+k: 95.000000% energy: 398
+k: 95.000000% energy: 395
+k: 95.000000% energy: 398
+DTD_Stanford_Cars_ - Mean: 400.0 +- 5.483039754232095
+k: 95.000000% energy: 543
+k: 95.000000% energy: 544
+k: 95.000000% energy: 536
+k: 95.000000% energy: 543
+k: 95.000000% energy: 542
+DTD_SUN397_ - Mean: 541.6 +- 3.9849483923488833
+k: 95.000000% energy: 37
+k: 95.000000% energy: 29
+k: 95.000000% energy: 37
+k: 95.000000% energy: 26
+k: 95.000000% energy: 38
+DTD_SVHN_ - Mean: 33.4 +- 6.834793587109381
+k: 95.000000% energy: 63
+k: 95.000000% energy: 76
+k: 95.000000% energy: 75
+k: 95.000000% energy: 76
+k: 95.000000% energy: 66
+EuroSAT_GTSRB_ - Mean: 71.2 +- 7.724307803787241
+k: 95.000000% energy: 19
+k: 95.000000% energy: 78
+k: 95.000000% energy: 25
+k: 95.000000% energy: 59
+k: 95.000000% energy: 32
+EuroSAT_MNIST_ - Mean: 42.6 +- 31.049049045299803
+k: 95.000000% energy: 100
+k: 95.000000% energy: 183
+k: 95.000000% energy: 134
+k: 95.000000% energy: 176
+k: 95.000000% energy: 147
+EuroSAT_RESISC45_ - Mean: 148.0 +- 41.69292498375319
+k: 95.000000% energy: 101
+k: 95.000000% energy: 220
+k: 95.000000% energy: 143
+k: 95.000000% energy: 205
+k: 95.000000% energy: 162
+EuroSAT_Stanford_Cars_ - Mean: 166.2 +- 59.570116285977434
+k: 95.000000% energy: 290
+k: 95.000000% energy: 430
+k: 95.000000% energy: 341
+k: 95.000000% energy: 417
+k: 95.000000% energy: 373
+EuroSAT_SUN397_ - Mean: 370.2 +- 70.94564290945658
+k: 95.000000% energy: 33
+k: 95.000000% energy: 32
+k: 95.000000% energy: 39
+k: 95.000000% energy: 33
+k: 95.000000% energy: 38
+EuroSAT_SVHN_ - Mean: 35.0 +- 4.02345120345349
+k: 95.000000% energy: 35
+k: 95.000000% energy: 68
+k: 95.000000% energy: 40
+k: 95.000000% energy: 58
+k: 95.000000% energy: 43
+GTSRB_MNIST_ - Mean: 48.8 +- 17.05650473317887
+k: 95.000000% energy: 102
+k: 95.000000% energy: 108
+k: 95.000000% energy: 115
+k: 95.000000% energy: 107
+k: 95.000000% energy: 96
+GTSRB_RESISC45_ - Mean: 105.6 +- 8.806190610422803
+k: 95.000000% energy: 84
+k: 95.000000% energy: 94
+k: 95.000000% energy: 98
+k: 95.000000% energy: 89
+k: 95.000000% energy: 75
+GTSRB_Stanford_Cars_ - Mean: 88.0 +- 11.140431925964393
+k: 95.000000% energy: 238
+k: 95.000000% energy: 255
+k: 95.000000% energy: 258
+k: 95.000000% energy: 247
+k: 95.000000% energy: 226
+GTSRB_SUN397_ - Mean: 244.8 +- 16.222614554784798
+k: 95.000000% energy: 48
+k: 95.000000% energy: 45
+k: 95.000000% energy: 49
+k: 95.000000% energy: 45
+k: 95.000000% energy: 46
+GTSRB_SVHN_ - Mean: 46.6 +- 2.2555946662990465
+k: 95.000000% energy: 21
+k: 95.000000% energy: 111
+k: 95.000000% energy: 36
+k: 95.000000% energy: 79
+k: 95.000000% energy: 46
+MNIST_RESISC45_ - Mean: 58.6 +- 44.962983363430105
+k: 95.000000% energy: 10
+k: 95.000000% energy: 87
+k: 95.000000% energy: 14
+k: 95.000000% energy: 53
+k: 95.000000% energy: 21
+MNIST_Stanford_Cars_ - Mean: 37.0 +- 40.56841412521261
+k: 95.000000% energy: 21
+k: 95.000000% energy: 252
+k: 95.000000% energy: 54
+k: 95.000000% energy: 167
+k: 95.000000% energy: 73
+MNIST_SUN397_ - Mean: 113.4 +- 117.43607945226907
+k: 95.000000% energy: 18
+k: 95.000000% energy: 31
+k: 95.000000% energy: 18
+k: 95.000000% energy: 26
+k: 95.000000% energy: 20
+MNIST_SVHN_ - Mean: 22.6 +- 7.111169178797528
+k: 95.000000% energy: 343
+k: 95.000000% energy: 349
+k: 95.000000% energy: 335
+k: 95.000000% energy: 332
+k: 95.000000% energy: 325
+RESISC45_Stanford_Cars_ - Mean: 336.8 +- 11.661069441830762
+k: 95.000000% energy: 483
+k: 95.000000% energy: 486
+k: 95.000000% energy: 472
+k: 95.000000% energy: 479
+k: 95.000000% energy: 474
+RESISC45_SUN397_ - Mean: 478.8 +- 7.3142335968922225
+k: 95.000000% energy: 69
+k: 95.000000% energy: 61
+k: 95.000000% energy: 71
+k: 95.000000% energy: 59
+k: 95.000000% energy: 67
+RESISC45_SVHN_ - Mean: 65.4 +- 6.4279351414639905
+k: 95.000000% energy: 541
+k: 95.000000% energy: 543
+k: 95.000000% energy: 532
+k: 95.000000% energy: 539
+k: 95.000000% energy: 536
+Stanford_Cars_SUN397_ - Mean: 538.2 +- 5.3693892910591785
+k: 95.000000% energy: 46
+k: 95.000000% energy: 40
+k: 95.000000% energy: 47
+k: 95.000000% energy: 34
+k: 95.000000% energy: 43
+Stanford_Cars_SVHN_ - Mean: 42.0 +- 6.511340938852186
+k: 95.000000% energy: 202
+k: 95.000000% energy: 184
+k: 95.000000% energy: 197
+k: 95.000000% energy: 168
+k: 95.000000% energy: 184
+SUN397_SVHN_ - Mean: 187.0 +- 16.472534390937653
+k: 95.000000% energy: 74
+k: 95.000000% energy: 93
+k: 95.000000% energy: 89
+k: 95.000000% energy: 92
+k: 95.000000% energy: 83
+DTD_EuroSAT_GTSRB_ - Mean: 86.2 +- 9.753189693103579
+k: 95.000000% energy: 20
+k: 95.000000% energy: 94
+k: 95.000000% energy: 27
+k: 95.000000% energy: 66
+k: 95.000000% energy: 36
+DTD_EuroSAT_MNIST_ - Mean: 48.6 +- 38.306893939414856
+k: 95.000000% energy: 124
+k: 95.000000% energy: 220
+k: 95.000000% energy: 160
+k: 95.000000% energy: 208
+k: 95.000000% energy: 182
+DTD_EuroSAT_RESISC45_ - Mean: 178.8 +- 47.75485580940213
+k: 95.000000% energy: 143
+k: 95.000000% energy: 274
+k: 95.000000% energy: 189
+k: 95.000000% energy: 256
+k: 95.000000% energy: 220
+DTD_EuroSAT_Stanford_Cars_ - Mean: 216.4 +- 65.22341731619477
+k: 95.000000% energy: 308
+k: 95.000000% energy: 439
+k: 95.000000% energy: 357
+k: 95.000000% energy: 427
+k: 95.000000% energy: 391
+DTD_EuroSAT_SUN397_ - Mean: 384.4 +- 66.36575013615789
+k: 95.000000% energy: 46
+k: 95.000000% energy: 48
+k: 95.000000% energy: 53
+k: 95.000000% energy: 46
+k: 95.000000% energy: 55
+DTD_EuroSAT_SVHN_ - Mean: 49.6 +- 5.164486429523443
+k: 95.000000% energy: 35
+k: 95.000000% energy: 77
+k: 95.000000% energy: 40
+k: 95.000000% energy: 63
+k: 95.000000% energy: 45
+DTD_GTSRB_MNIST_ - Mean: 52.0 +- 21.755710784105773
+k: 95.000000% energy: 123
+k: 95.000000% energy: 128
+k: 95.000000% energy: 136
+k: 95.000000% energy: 126
+k: 95.000000% energy: 118
+DTD_GTSRB_RESISC45_ - Mean: 126.2 +- 8.254964761405276
+k: 95.000000% energy: 117
+k: 95.000000% energy: 126
+k: 95.000000% energy: 131
+k: 95.000000% energy: 121
+k: 95.000000% energy: 110
+DTD_GTSRB_Stanford_Cars_ - Mean: 121.0 +- 10.049043796825458
+k: 95.000000% energy: 258
+k: 95.000000% energy: 273
+k: 95.000000% energy: 277
+k: 95.000000% energy: 265
+k: 95.000000% energy: 249
+DTD_GTSRB_SUN397_ - Mean: 264.4 +- 14.036845376039423
+k: 95.000000% energy: 57
+k: 95.000000% energy: 53
+k: 95.000000% energy: 58
+k: 95.000000% energy: 51
+k: 95.000000% energy: 55
+DTD_GTSRB_SVHN_ - Mean: 54.8 +- 3.5555845893987623
+k: 95.000000% energy: 25
+k: 95.000000% energy: 129
+k: 95.000000% energy: 41
+k: 95.000000% energy: 89
+k: 95.000000% energy: 53
+DTD_MNIST_RESISC45_ - Mean: 67.4 +- 51.8058171106786
+k: 95.000000% energy: 11
+k: 95.000000% energy: 122
+k: 95.000000% energy: 20
+k: 95.000000% energy: 73
+k: 95.000000% energy: 32
+DTD_MNIST_Stanford_Cars_ - Mean: 51.6 +- 57.05307581969952
+k: 95.000000% energy: 33
+k: 95.000000% energy: 267
+k: 95.000000% energy: 69
+k: 95.000000% energy: 183
+k: 95.000000% energy: 94
+DTD_MNIST_SUN397_ - Mean: 129.2 +- 117.79589851015677
+k: 95.000000% energy: 18
+k: 95.000000% energy: 41
+k: 95.000000% energy: 19
+k: 95.000000% energy: 30
+k: 95.000000% energy: 22
+DTD_MNIST_SVHN_ - Mean: 26.0 +- 11.941941940499923
+k: 95.000000% energy: 376
+k: 95.000000% energy: 378
+k: 95.000000% energy: 366
+k: 95.000000% energy: 363
+k: 95.000000% energy: 363
+DTD_RESISC45_Stanford_Cars_ - Mean: 369.2 +- 9.013830696753928
+k: 95.000000% energy: 488
+k: 95.000000% energy: 490
+k: 95.000000% energy: 478
+k: 95.000000% energy: 483
+k: 95.000000% energy: 481
+DTD_RESISC45_SUN397_ - Mean: 484.0 +- 6.145923231595589
+k: 95.000000% energy: 92
+k: 95.000000% energy: 80
+k: 95.000000% energy: 92
+k: 95.000000% energy: 75
+k: 95.000000% energy: 89
+DTD_RESISC45_SVHN_ - Mean: 85.6 +- 9.561619027498267
+k: 95.000000% energy: 539
+k: 95.000000% energy: 541
+k: 95.000000% energy: 532
+k: 95.000000% energy: 538
+k: 95.000000% energy: 536
+DTD_Stanford_Cars_SUN397_ - Mean: 537.2 +- 4.247144330946867
+k: 95.000000% energy: 81
+k: 95.000000% energy: 70
+k: 95.000000% energy: 79
+k: 95.000000% energy: 60
+k: 95.000000% energy: 76
+DTD_Stanford_Cars_SVHN_ - Mean: 73.2 +- 10.513895759137782
+k: 95.000000% energy: 223
+k: 95.000000% energy: 202
+k: 95.000000% energy: 216
+k: 95.000000% energy: 186
+k: 95.000000% energy: 207
+DTD_SUN397_SVHN_ - Mean: 206.8 +- 17.590483436397562
+k: 95.000000% energy: 43
+k: 95.000000% energy: 80
+k: 95.000000% energy: 48
+k: 95.000000% energy: 69
+k: 95.000000% energy: 52
+EuroSAT_GTSRB_MNIST_ - Mean: 58.4 +- 19.287802482249056
+k: 95.000000% energy: 92
+k: 95.000000% energy: 113
+k: 95.000000% energy: 108
+k: 95.000000% energy: 113
+k: 95.000000% energy: 100
+EuroSAT_GTSRB_RESISC45_ - Mean: 105.2 +- 11.291635327214763
+k: 95.000000% energy: 83
+k: 95.000000% energy: 113
+k: 95.000000% energy: 103
+k: 95.000000% energy: 109
+k: 95.000000% energy: 92
+EuroSAT_GTSRB_Stanford_Cars_ - Mean: 100.0 +- 15.358535448362602
+k: 95.000000% energy: 176
+k: 95.000000% energy: 236
+k: 95.000000% energy: 212
+k: 95.000000% energy: 229
+k: 95.000000% energy: 199
+EuroSAT_GTSRB_SUN397_ - Mean: 210.4 +- 29.88517843904242
+k: 95.000000% energy: 58
+k: 95.000000% energy: 58
+k: 95.000000% energy: 62
+k: 95.000000% energy: 58
+k: 95.000000% energy: 58
+EuroSAT_GTSRB_SVHN_ - Mean: 58.8 +- 2.2211560841582383
+k: 95.000000% energy: 29
+k: 95.000000% energy: 111
+k: 95.000000% energy: 44
+k: 95.000000% energy: 86
+k: 95.000000% energy: 53
+EuroSAT_MNIST_RESISC45_ - Mean: 64.6 +- 41.35505431122232
+k: 95.000000% energy: 19
+k: 95.000000% energy: 108
+k: 95.000000% energy: 28
+k: 95.000000% energy: 72
+k: 95.000000% energy: 35
+EuroSAT_MNIST_Stanford_Cars_ - Mean: 52.4 +- 45.99690610780956
+k: 95.000000% energy: 30
+k: 95.000000% energy: 229
+k: 95.000000% energy: 59
+k: 95.000000% energy: 160
+k: 95.000000% energy: 77
+EuroSAT_MNIST_SUN397_ - Mean: 111.0 +- 101.53213381820092
+k: 95.000000% energy: 25
+k: 95.000000% energy: 45
+k: 95.000000% energy: 27
+k: 95.000000% energy: 38
+k: 95.000000% energy: 29
+EuroSAT_MNIST_SVHN_ - Mean: 32.8 +- 10.477172294650778
+k: 95.000000% energy: 150
+k: 95.000000% energy: 261
+k: 95.000000% energy: 192
+k: 95.000000% energy: 245
+k: 95.000000% energy: 208
+EuroSAT_RESISC45_Stanford_Cars_ - Mean: 211.2 +- 54.64309190104427
+k: 95.000000% energy: 289
+k: 95.000000% energy: 406
+k: 95.000000% energy: 333
+k: 95.000000% energy: 392
+k: 95.000000% energy: 357
+EuroSAT_RESISC45_SUN397_ - Mean: 355.4 +- 58.28286689119227
+k: 95.000000% energy: 66
+k: 95.000000% energy: 71
+k: 95.000000% energy: 75
+k: 95.000000% energy: 70
+k: 95.000000% energy: 74
+EuroSAT_RESISC45_SVHN_ - Mean: 71.2 +- 4.424925361215614
+k: 95.000000% energy: 321
+k: 95.000000% energy: 446
+k: 95.000000% energy: 365
+k: 95.000000% energy: 432
+k: 95.000000% energy: 393
+EuroSAT_Stanford_Cars_SUN397_ - Mean: 391.4 +- 62.96228254541484
+k: 95.000000% energy: 54
+k: 95.000000% energy: 63
+k: 95.000000% energy: 64
+k: 95.000000% energy: 58
+k: 95.000000% energy: 63
+EuroSAT_Stanford_Cars_SVHN_ - Mean: 60.4 +- 5.311652244374351
+k: 95.000000% energy: 149
+k: 95.000000% energy: 172
+k: 95.000000% energy: 165
+k: 95.000000% energy: 160
+k: 95.000000% energy: 163
+EuroSAT_SUN397_SVHN_ - Mean: 161.8 +- 10.440319657442501
+k: 95.000000% energy: 44
+k: 95.000000% energy: 101
+k: 95.000000% energy: 56
+k: 95.000000% energy: 85
+k: 95.000000% energy: 61
+GTSRB_MNIST_RESISC45_ - Mean: 69.4 +- 28.700976699997767
+k: 95.000000% energy: 35
+k: 95.000000% energy: 82
+k: 95.000000% energy: 40
+k: 95.000000% energy: 63
+k: 95.000000% energy: 44
+GTSRB_MNIST_Stanford_Cars_ - Mean: 52.8 +- 24.163049388594814
+k: 95.000000% energy: 43
+k: 95.000000% energy: 176
+k: 95.000000% energy: 60
+k: 95.000000% energy: 126
+k: 95.000000% energy: 65
+GTSRB_MNIST_SUN397_ - Mean: 94.0 +- 68.98222998504576
+k: 95.000000% energy: 37
+k: 95.000000% energy: 56
+k: 95.000000% energy: 40
+k: 95.000000% energy: 51
+k: 95.000000% energy: 43
+GTSRB_MNIST_SVHN_ - Mean: 45.4 +- 9.800497277195845
+k: 95.000000% energy: 145
+k: 95.000000% energy: 156
+k: 95.000000% energy: 161
+k: 95.000000% energy: 150
+k: 95.000000% energy: 134
+GTSRB_RESISC45_Stanford_Cars_ - Mean: 149.2 +- 12.94550095431319
+k: 95.000000% energy: 260
+k: 95.000000% energy: 274
+k: 95.000000% energy: 277
+k: 95.000000% energy: 265
+k: 95.000000% energy: 246
+GTSRB_RESISC45_SUN397_ - Mean: 264.4 +- 15.323361265711469
+k: 95.000000% energy: 83
+k: 95.000000% energy: 79
+k: 95.000000% energy: 86
+k: 95.000000% energy: 78
+k: 95.000000% energy: 79
+GTSRB_RESISC45_SVHN_ - Mean: 81.0 +- 4.210687481992295
+k: 95.000000% energy: 280
+k: 95.000000% energy: 297
+k: 95.000000% energy: 298
+k: 95.000000% energy: 287
+k: 95.000000% energy: 266
+GTSRB_Stanford_Cars_SUN397_ - Mean: 285.6 +- 16.439743873355155
+k: 95.000000% energy: 63
+k: 95.000000% energy: 60
+k: 95.000000% energy: 65
+k: 95.000000% energy: 56
+k: 95.000000% energy: 57
+GTSRB_Stanford_Cars_SVHN_ - Mean: 60.2 +- 4.760611664607794
+k: 95.000000% energy: 155
+k: 95.000000% energy: 146
+k: 95.000000% energy: 158
+k: 95.000000% energy: 137
+k: 95.000000% energy: 138
+GTSRB_SUN397_SVHN_ - Mean: 146.8 +- 11.890188969176336
+k: 95.000000% energy: 29
+k: 95.000000% energy: 151
+k: 95.000000% energy: 47
+k: 95.000000% energy: 101
+k: 95.000000% energy: 57
+MNIST_RESISC45_Stanford_Cars_ - Mean: 77.0 +- 61.00602409128925
+k: 95.000000% energy: 52
+k: 95.000000% energy: 264
+k: 95.000000% energy: 86
+k: 95.000000% energy: 189
+k: 95.000000% energy: 104
+MNIST_RESISC45_SUN397_ - Mean: 139.0 +- 107.04267153020623
+k: 95.000000% energy: 22
+k: 95.000000% energy: 67
+k: 95.000000% energy: 33
+k: 95.000000% energy: 53
+k: 95.000000% energy: 38
+MNIST_RESISC45_SVHN_ - Mean: 42.6 +- 21.872326328497685
+k: 95.000000% energy: 43
+k: 95.000000% energy: 284
+k: 95.000000% energy: 84
+k: 95.000000% energy: 199
+k: 95.000000% energy: 104
+MNIST_Stanford_Cars_SUN397_ - Mean: 142.8 +- 121.052369785613
+k: 95.000000% energy: 18
+k: 95.000000% energy: 46
+k: 95.000000% energy: 19
+k: 95.000000% energy: 31
+k: 95.000000% energy: 21
+MNIST_Stanford_Cars_SVHN_ - Mean: 27.0 +- 14.665308148100166
+k: 95.000000% energy: 22
+k: 95.000000% energy: 134
+k: 95.000000% energy: 37
+k: 95.000000% energy: 85
+k: 95.000000% energy: 41
+MNIST_SUN397_SVHN_ - Mean: 63.8 +- 56.77405950880218
+k: 95.000000% energy: 490
+k: 95.000000% energy: 494
+k: 95.000000% energy: 481
+k: 95.000000% energy: 485
+k: 95.000000% energy: 480
+RESISC45_Stanford_Cars_SUN397_ - Mean: 486.0 +- 7.398067091981204
+k: 95.000000% energy: 112
+k: 95.000000% energy: 102
+k: 95.000000% energy: 112
+k: 95.000000% energy: 93
+k: 95.000000% energy: 103
+RESISC45_Stanford_Cars_SVHN_ - Mean: 104.4 +- 9.878839828884693
+k: 95.000000% energy: 226
+k: 95.000000% energy: 209
+k: 95.000000% energy: 221
+k: 95.000000% energy: 194
+k: 95.000000% energy: 208
+RESISC45_SUN397_SVHN_ - Mean: 211.6 +- 15.52328310690902
+k: 95.000000% energy: 245
+k: 95.000000% energy: 228
+k: 95.000000% energy: 238
+k: 95.000000% energy: 209
+k: 95.000000% energy: 225
+Stanford_Cars_SUN397_SVHN_ - Mean: 229.0 +- 17.04746338362591
+k: 95.000000% energy: 43
+k: 95.000000% energy: 90
+k: 95.000000% energy: 49
+k: 95.000000% energy: 74
+k: 95.000000% energy: 54
+DTD_EuroSAT_GTSRB_MNIST_ - Mean: 62.0 +- 24.22040604175858
+k: 95.000000% energy: 104
+k: 95.000000% energy: 129
+k: 95.000000% energy: 122
+k: 95.000000% energy: 128
+k: 95.000000% energy: 115
+DTD_EuroSAT_GTSRB_RESISC45_ - Mean: 119.6 +- 12.861865093364742
+k: 95.000000% energy: 102
+k: 95.000000% energy: 137
+k: 95.000000% energy: 124
+k: 95.000000% energy: 132
+k: 95.000000% energy: 116
+DTD_EuroSAT_GTSRB_Stanford_Cars_ - Mean: 122.2 +- 17.16911987913305
+k: 95.000000% energy: 193
+k: 95.000000% energy: 252
+k: 95.000000% energy: 228
+k: 95.000000% energy: 244
+k: 95.000000% energy: 219
+DTD_EuroSAT_GTSRB_SUN397_ - Mean: 227.2 +- 28.68485708249483
+k: 95.000000% energy: 66
+k: 95.000000% energy: 66
+k: 95.000000% energy: 70
+k: 95.000000% energy: 65
+k: 95.000000% energy: 67
+DTD_EuroSAT_GTSRB_SVHN_ - Mean: 66.8 +- 2.388388388099983
+k: 95.000000% energy: 31
+k: 95.000000% energy: 126
+k: 95.000000% energy: 47
+k: 95.000000% energy: 93
+k: 95.000000% energy: 59
+DTD_EuroSAT_MNIST_RESISC45_ - Mean: 71.2 +- 47.39839875691173
+k: 95.000000% energy: 21
+k: 95.000000% energy: 132
+k: 95.000000% energy: 33
+k: 95.000000% energy: 88
+k: 95.000000% energy: 45
+DTD_EuroSAT_MNIST_Stanford_Cars_ - Mean: 63.8 +- 56.801208544166414
+k: 95.000000% energy: 36
+k: 95.000000% energy: 242
+k: 95.000000% energy: 68
+k: 95.000000% energy: 172
+k: 95.000000% energy: 92
+DTD_EuroSAT_MNIST_SUN397_ - Mean: 122.0 +- 104.09262613947124
+k: 95.000000% energy: 26
+k: 95.000000% energy: 55
+k: 95.000000% energy: 28
+k: 95.000000% energy: 42
+k: 95.000000% energy: 31
+DTD_EuroSAT_MNIST_SVHN_ - Mean: 36.4 +- 15.018489390511071
+k: 95.000000% energy: 181
+k: 95.000000% energy: 292
+k: 95.000000% energy: 222
+k: 95.000000% energy: 276
+k: 95.000000% energy: 244
+DTD_EuroSAT_RESISC45_Stanford_Cars_ - Mean: 243.0 +- 54.74597809649896
+k: 95.000000% energy: 305
+k: 95.000000% energy: 416
+k: 95.000000% energy: 347
+k: 95.000000% energy: 402
+k: 95.000000% energy: 373
+DTD_EuroSAT_RESISC45_SUN397_ - Mean: 368.6 +- 55.15700129300268
+k: 95.000000% energy: 79
+k: 95.000000% energy: 86
+k: 95.000000% energy: 89
+k: 95.000000% energy: 83
+k: 95.000000% energy: 90
+DTD_EuroSAT_RESISC45_SVHN_ - Mean: 85.4 +- 5.594381872382144
+k: 95.000000% energy: 337
+k: 95.000000% energy: 454
+k: 95.000000% energy: 379
+k: 95.000000% energy: 441
+k: 95.000000% energy: 408
+DTD_EuroSAT_Stanford_Cars_SUN397_ - Mean: 403.8 +- 58.89336822711226
+k: 95.000000% energy: 75
+k: 95.000000% energy: 86
+k: 95.000000% energy: 85
+k: 95.000000% energy: 78
+k: 95.000000% energy: 87
+DTD_EuroSAT_Stanford_Cars_SVHN_ - Mean: 82.2 +- 6.651889671611741
+k: 95.000000% energy: 165
+k: 95.000000% energy: 189
+k: 95.000000% energy: 181
+k: 95.000000% energy: 175
+k: 95.000000% energy: 182
+DTD_EuroSAT_SUN397_SVHN_ - Mean: 178.4 +- 11.161171190443127
+k: 95.000000% energy: 47
+k: 95.000000% energy: 113
+k: 95.000000% energy: 60
+k: 95.000000% energy: 92
+k: 95.000000% energy: 66
+DTD_GTSRB_MNIST_RESISC45_ - Mean: 75.6 +- 32.97547278466621
+k: 95.000000% energy: 36
+k: 95.000000% energy: 100
+k: 95.000000% energy: 44
+k: 95.000000% energy: 74
+k: 95.000000% energy: 48
+DTD_GTSRB_MNIST_Stanford_Cars_ - Mean: 60.4 +- 32.681955064176
+k: 95.000000% energy: 49
+k: 95.000000% energy: 191
+k: 95.000000% energy: 70
+k: 95.000000% energy: 140
+k: 95.000000% energy: 78
+DTD_GTSRB_MNIST_SUN397_ - Mean: 105.6 +- 72.690917328132
+k: 95.000000% energy: 37
+k: 95.000000% energy: 62
+k: 95.000000% energy: 41
+k: 95.000000% energy: 54
+k: 95.000000% energy: 45
+DTD_GTSRB_MNIST_SVHN_ - Mean: 47.8 +- 12.58314817728504
+k: 95.000000% energy: 170
+k: 95.000000% energy: 180
+k: 95.000000% energy: 186
+k: 95.000000% energy: 173
+k: 95.000000% energy: 161
+DTD_GTSRB_RESISC45_Stanford_Cars_ - Mean: 174.0 +- 11.877215491260387
+k: 95.000000% energy: 275
+k: 95.000000% energy: 287
+k: 95.000000% energy: 291
+k: 95.000000% energy: 279
+k: 95.000000% energy: 264
+DTD_GTSRB_RESISC45_SUN397_ - Mean: 279.2 +- 13.152263993459371
+k: 95.000000% energy: 96
+k: 95.000000% energy: 89
+k: 95.000000% energy: 98
+k: 95.000000% energy: 87
+k: 95.000000% energy: 91
+DTD_GTSRB_RESISC45_SVHN_ - Mean: 92.2 +- 5.784075536526771
+k: 95.000000% energy: 297
+k: 95.000000% energy: 312
+k: 95.000000% energy: 314
+k: 95.000000% energy: 303
+k: 95.000000% energy: 286
+DTD_GTSRB_Stanford_Cars_SUN397_ - Mean: 302.4 +- 14.227757423654737
+k: 95.000000% energy: 82
+k: 95.000000% energy: 76
+k: 95.000000% energy: 83
+k: 95.000000% energy: 70
+k: 95.000000% energy: 74
+DTD_GTSRB_Stanford_Cars_SVHN_ - Mean: 77.0 +- 6.8008738065825725
+k: 95.000000% energy: 173
+k: 95.000000% energy: 162
+k: 95.000000% energy: 175
+k: 95.000000% energy: 153
+k: 95.000000% energy: 157
+DTD_GTSRB_SUN397_SVHN_ - Mean: 164.0 +- 12.038379107542852
+k: 95.000000% energy: 35
+k: 95.000000% energy: 173
+k: 95.000000% energy: 55
+k: 95.000000% energy: 117
+k: 95.000000% energy: 69
+DTD_MNIST_RESISC45_Stanford_Cars_ - Mean: 89.8 +- 68.87822565589578
+k: 95.000000% energy: 61
+k: 95.000000% energy: 275
+k: 95.000000% energy: 97
+k: 95.000000% energy: 200
+k: 95.000000% energy: 119
+DTD_MNIST_RESISC45_SUN397_ - Mean: 150.4 +- 107.19954865149529
+k: 95.000000% energy: 26
+k: 95.000000% energy: 79
+k: 95.000000% energy: 37
+k: 95.000000% energy: 60
+k: 95.000000% energy: 43
+DTD_MNIST_RESISC45_SVHN_ - Mean: 49.0 +- 25.822432147617207
+k: 95.000000% energy: 58
+k: 95.000000% energy: 297
+k: 95.000000% energy: 99
+k: 95.000000% energy: 214
+k: 95.000000% energy: 123
+DTD_MNIST_Stanford_Cars_SUN397_ - Mean: 158.2 +- 119.6818537667412
+k: 95.000000% energy: 18
+k: 95.000000% energy: 64
+k: 95.000000% energy: 20
+k: 95.000000% energy: 40
+k: 95.000000% energy: 25
+DTD_MNIST_Stanford_Cars_SVHN_ - Mean: 33.4 +- 23.780377938352686
+k: 95.000000% energy: 27
+k: 95.000000% energy: 151
+k: 95.000000% energy: 46
+k: 95.000000% energy: 98
+k: 95.000000% energy: 53
+DTD_MNIST_SUN397_SVHN_ - Mean: 75.0 +- 61.877986187296244
+k: 95.000000% energy: 495
+k: 95.000000% energy: 498
+k: 95.000000% energy: 486
+k: 95.000000% energy: 490
+k: 95.000000% energy: 487
+DTD_RESISC45_Stanford_Cars_SUN397_ - Mean: 491.2 +- 6.415931517279773
+k: 95.000000% energy: 139
+k: 95.000000% energy: 125
+k: 95.000000% energy: 136
+k: 95.000000% energy: 113
+k: 95.000000% energy: 129
+DTD_RESISC45_Stanford_Cars_SVHN_ - Mean: 128.4 +- 12.711146681901909
+k: 95.000000% energy: 242
+k: 95.000000% energy: 223
+k: 95.000000% energy: 236
+k: 95.000000% energy: 208
+k: 95.000000% energy: 226
+DTD_RESISC45_SUN397_SVHN_ - Mean: 227.0 +- 16.23686367000866
+k: 95.000000% energy: 262
+k: 95.000000% energy: 244
+k: 95.000000% energy: 254
+k: 95.000000% energy: 226
+k: 95.000000% energy: 244
+DTD_Stanford_Cars_SUN397_SVHN_ - Mean: 246.0 +- 16.75096314148044
+k: 95.000000% energy: 51
+k: 95.000000% energy: 109
+k: 95.000000% energy: 63
+k: 95.000000% energy: 93
+k: 95.000000% energy: 68
+EuroSAT_GTSRB_MNIST_RESISC45_ - Mean: 76.8 +- 29.335872208131462
+k: 95.000000% energy: 43
+k: 95.000000% energy: 98
+k: 95.000000% energy: 50
+k: 95.000000% energy: 77
+k: 95.000000% energy: 54
+EuroSAT_GTSRB_MNIST_Stanford_Cars_ - Mean: 64.4 +- 28.18604625217135
+k: 95.000000% energy: 50
+k: 95.000000% energy: 174
+k: 95.000000% energy: 67
+k: 95.000000% energy: 130
+k: 95.000000% energy: 73
+EuroSAT_GTSRB_MNIST_SUN397_ - Mean: 98.8 +- 64.17973717277097
+k: 95.000000% energy: 45
+k: 95.000000% energy: 67
+k: 95.000000% energy: 49
+k: 95.000000% energy: 61
+k: 95.000000% energy: 51
+EuroSAT_GTSRB_MNIST_SVHN_ - Mean: 54.6 +- 11.298460130090653
+k: 95.000000% energy: 116
+k: 95.000000% energy: 154
+k: 95.000000% energy: 140
+k: 95.000000% energy: 150
+k: 95.000000% energy: 129
+EuroSAT_GTSRB_RESISC45_Stanford_Cars_ - Mean: 137.8 +- 19.323738797920157
+k: 95.000000% energy: 195
+k: 95.000000% energy: 253
+k: 95.000000% energy: 230
+k: 95.000000% energy: 244
+k: 95.000000% energy: 217
+EuroSAT_GTSRB_RESISC45_SUN397_ - Mean: 227.8 +- 28.414850536274173
+k: 95.000000% energy: 84
+k: 95.000000% energy: 88
+k: 95.000000% energy: 92
+k: 95.000000% energy: 87
+k: 95.000000% energy: 87
+EuroSAT_GTSRB_RESISC45_SVHN_ - Mean: 87.6 +- 3.5771992844701117
+k: 95.000000% energy: 211
+k: 95.000000% energy: 275
+k: 95.000000% energy: 247
+k: 95.000000% energy: 265
+k: 95.000000% energy: 235
+EuroSAT_GTSRB_Stanford_Cars_SUN397_ - Mean: 246.6 +- 31.333262448848842
+k: 95.000000% energy: 71
+k: 95.000000% energy: 76
+k: 95.000000% energy: 78
+k: 95.000000% energy: 73
+k: 95.000000% energy: 71
+EuroSAT_GTSRB_Stanford_Cars_SVHN_ - Mean: 73.8 +- 3.8671405455482244
+k: 95.000000% energy: 130
+k: 95.000000% energy: 146
+k: 95.000000% energy: 146
+k: 95.000000% energy: 140
+k: 95.000000% energy: 134
+EuroSAT_GTSRB_SUN397_SVHN_ - Mean: 139.2 +- 8.884624336632953
+k: 95.000000% energy: 35
+k: 95.000000% energy: 147
+k: 95.000000% energy: 54
+k: 95.000000% energy: 106
+k: 95.000000% energy: 63
+EuroSAT_MNIST_RESISC45_Stanford_Cars_ - Mean: 81.0 +- 56.04706793880524
+k: 95.000000% energy: 51
+k: 95.000000% energy: 240
+k: 95.000000% energy: 82
+k: 95.000000% energy: 176
+k: 95.000000% energy: 99
+EuroSAT_MNIST_RESISC45_SUN397_ - Mean: 129.6 +- 95.61860886640756
+k: 95.000000% energy: 31
+k: 95.000000% energy: 75
+k: 95.000000% energy: 41
+k: 95.000000% energy: 62
+k: 95.000000% energy: 46
+EuroSAT_MNIST_RESISC45_SVHN_ - Mean: 51.0 +- 21.70249657286007
+k: 95.000000% energy: 44
+k: 95.000000% energy: 260
+k: 95.000000% energy: 82
+k: 95.000000% energy: 189
+k: 95.000000% energy: 102
+EuroSAT_MNIST_Stanford_Cars_SUN397_ - Mean: 135.4 +- 108.81256404738699
+k: 95.000000% energy: 26
+k: 95.000000% energy: 62
+k: 95.000000% energy: 28
+k: 95.000000% energy: 45
+k: 95.000000% energy: 31
+EuroSAT_MNIST_Stanford_Cars_SVHN_ - Mean: 38.4 +- 18.80208953231073
+k: 95.000000% energy: 30
+k: 95.000000% energy: 135
+k: 95.000000% energy: 45
+k: 95.000000% energy: 91
+k: 95.000000% energy: 49
+EuroSAT_MNIST_SUN397_SVHN_ - Mean: 70.0 +- 53.16004274800784
+k: 95.000000% energy: 317
+k: 95.000000% energy: 425
+k: 95.000000% energy: 357
+k: 95.000000% energy: 411
+k: 95.000000% energy: 378
+EuroSAT_RESISC45_Stanford_Cars_SUN397_ - Mean: 377.6 +- 53.6191863289165
+k: 95.000000% energy: 91
+k: 95.000000% energy: 106
+k: 95.000000% energy: 104
+k: 95.000000% energy: 100
+k: 95.000000% energy: 102
+EuroSAT_RESISC45_Stanford_Cars_SVHN_ - Mean: 100.6 +- 7.218757273514271
+k: 95.000000% energy: 170
+k: 95.000000% energy: 193
+k: 95.000000% energy: 186
+k: 95.000000% energy: 181
+k: 95.000000% energy: 184
+EuroSAT_RESISC45_SUN397_SVHN_ - Mean: 182.8 +- 10.440319657442501
+k: 95.000000% energy: 185
+k: 95.000000% energy: 212
+k: 95.000000% energy: 200
+k: 95.000000% energy: 197
+k: 95.000000% energy: 199
+EuroSAT_Stanford_Cars_SUN397_SVHN_ - Mean: 198.6 +- 11.929024746951626
+k: 95.000000% energy: 50
+k: 95.000000% energy: 125
+k: 95.000000% energy: 64
+k: 95.000000% energy: 99
+k: 95.000000% energy: 69
+GTSRB_MNIST_RESISC45_Stanford_Cars_ - Mean: 81.4 +- 37.52414606802955
+k: 95.000000% energy: 66
+k: 95.000000% energy: 200
+k: 95.000000% energy: 89
+k: 95.000000% energy: 152
+k: 95.000000% energy: 94
+GTSRB_MNIST_RESISC45_SUN397_ - Mean: 120.2 +- 67.94296447974848
+k: 95.000000% energy: 46
+k: 95.000000% energy: 84
+k: 95.000000% energy: 55
+k: 95.000000% energy: 73
+k: 95.000000% energy: 58
+GTSRB_MNIST_RESISC45_SVHN_ - Mean: 63.2 +- 18.818481941293854
+k: 95.000000% energy: 53
+k: 95.000000% energy: 207
+k: 95.000000% energy: 79
+k: 95.000000% energy: 153
+k: 95.000000% energy: 85
+GTSRB_MNIST_Stanford_Cars_SUN397_ - Mean: 115.4 +- 78.40004533510748
+k: 95.000000% energy: 38
+k: 95.000000% energy: 66
+k: 95.000000% energy: 42
+k: 95.000000% energy: 56
+k: 95.000000% energy: 45
+GTSRB_MNIST_Stanford_Cars_SVHN_ - Mean: 49.4 +- 14.200641413828656
+k: 95.000000% energy: 45
+k: 95.000000% energy: 122
+k: 95.000000% energy: 56
+k: 95.000000% energy: 89
+k: 95.000000% energy: 57
+GTSRB_MNIST_SUN397_SVHN_ - Mean: 73.8 +- 39.18035282705212
+k: 95.000000% energy: 296
+k: 95.000000% energy: 310
+k: 95.000000% energy: 311
+k: 95.000000% energy: 299
+k: 95.000000% energy: 281
+GTSRB_RESISC45_Stanford_Cars_SUN397_ - Mean: 299.4 +- 15.171691139296229
+k: 95.000000% energy: 107
+k: 95.000000% energy: 102
+k: 95.000000% energy: 111
+k: 95.000000% energy: 98
+k: 95.000000% energy: 99
+GTSRB_RESISC45_Stanford_Cars_SVHN_ - Mean: 103.4 +- 6.834793587109374
+k: 95.000000% energy: 183
+k: 95.000000% energy: 172
+k: 95.000000% energy: 185
+k: 95.000000% energy: 164
+k: 95.000000% energy: 165
+GTSRB_RESISC45_SUN397_SVHN_ - Mean: 173.8 +- 12.21004672984094
+k: 95.000000% energy: 191
+k: 95.000000% energy: 181
+k: 95.000000% energy: 192
+k: 95.000000% energy: 171
+k: 95.000000% energy: 171
+GTSRB_Stanford_Cars_SUN397_SVHN_ - Mean: 181.2 +- 12.735381492621258
+k: 95.000000% energy: 73
+k: 95.000000% energy: 292
+k: 95.000000% energy: 112
+k: 95.000000% energy: 216
+k: 95.000000% energy: 130
+MNIST_RESISC45_Stanford_Cars_SUN397_ - Mean: 164.6 +- 109.70858553044056
+k: 95.000000% energy: 28
+k: 95.000000% energy: 91
+k: 95.000000% energy: 41
+k: 95.000000% energy: 67
+k: 95.000000% energy: 46
+MNIST_RESISC45_Stanford_Cars_SVHN_ - Mean: 54.6 +- 30.699498918310333
+k: 95.000000% energy: 46
+k: 95.000000% energy: 162
+k: 95.000000% energy: 67
+k: 95.000000% energy: 113
+k: 95.000000% energy: 71
+MNIST_RESISC45_SUN397_SVHN_ - Mean: 91.8 +- 57.314596853562776
+k: 95.000000% energy: 33
+k: 95.000000% energy: 168
+k: 95.000000% energy: 57
+k: 95.000000% energy: 113
+k: 95.000000% energy: 61
+MNIST_Stanford_Cars_SUN397_SVHN_ - Mean: 86.4 +- 67.23126134818236
+k: 95.000000% energy: 263
+k: 95.000000% energy: 248
+k: 95.000000% energy: 257
+k: 95.000000% energy: 230
+k: 95.000000% energy: 244
+RESISC45_Stanford_Cars_SUN397_SVHN_ - Mean: 248.4 +- 15.769621613704743
+k: 95.000000% energy: 53
+k: 95.000000% energy: 118
+k: 95.000000% energy: 66
+k: 95.000000% energy: 99
+k: 95.000000% energy: 72
+DTD_EuroSAT_GTSRB_MNIST_RESISC45_ - Mean: 81.6 +- 32.740869116868424
+k: 95.000000% energy: 45
+k: 95.000000% energy: 112
+k: 95.000000% energy: 53
+k: 95.000000% energy: 87
+k: 95.000000% energy: 58
+DTD_EuroSAT_GTSRB_MNIST_Stanford_Cars_ - Mean: 71.0 +- 34.599898044128096
+k: 95.000000% energy: 54
+k: 95.000000% energy: 187
+k: 95.000000% energy: 74
+k: 95.000000% energy: 141
+k: 95.000000% energy: 83
+DTD_EuroSAT_GTSRB_MNIST_SUN397_ - Mean: 107.8 +- 68.08463880238925
+k: 95.000000% energy: 45
+k: 95.000000% energy: 73
+k: 95.000000% energy: 50
+k: 95.000000% energy: 64
+k: 95.000000% energy: 53
+DTD_EuroSAT_GTSRB_MNIST_SVHN_ - Mean: 57.0 +- 14.075234944751159
+k: 95.000000% energy: 133
+k: 95.000000% energy: 174
+k: 95.000000% energy: 159
+k: 95.000000% energy: 169
+k: 95.000000% energy: 150
+DTD_EuroSAT_GTSRB_RESISC45_Stanford_Cars_ - Mean: 157.0 +- 20.231885184470315
+k: 95.000000% energy: 209
+k: 95.000000% energy: 266
+k: 95.000000% energy: 244
+k: 95.000000% energy: 258
+k: 95.000000% energy: 233
+DTD_EuroSAT_GTSRB_RESISC45_SUN397_ - Mean: 242.0 +- 27.806066540313395
+k: 95.000000% energy: 93
+k: 95.000000% energy: 97
+k: 95.000000% energy: 101
+k: 95.000000% energy: 96
+k: 95.000000% energy: 96
+DTD_EuroSAT_GTSRB_RESISC45_SVHN_ - Mean: 96.6 +- 3.5771992844701117
+k: 95.000000% energy: 227
+k: 95.000000% energy: 289
+k: 95.000000% energy: 262
+k: 95.000000% energy: 279
+k: 95.000000% energy: 253
+DTD_EuroSAT_GTSRB_Stanford_Cars_SUN397_ - Mean: 262.0 +- 29.928996482624427
+k: 95.000000% energy: 83
+k: 95.000000% energy: 90
+k: 95.000000% energy: 91
+k: 95.000000% energy: 85
+k: 95.000000% energy: 86
+DTD_EuroSAT_GTSRB_Stanford_Cars_SVHN_ - Mean: 87.0 +- 4.210687481992295
+k: 95.000000% energy: 144
+k: 95.000000% energy: 160
+k: 95.000000% energy: 159
+k: 95.000000% energy: 153
+k: 95.000000% energy: 150
+DTD_EuroSAT_GTSRB_SUN397_SVHN_ - Mean: 153.2 +- 8.208140987448104
+k: 95.000000% energy: 39
+k: 95.000000% energy: 165
+k: 95.000000% energy: 60
+k: 95.000000% energy: 119
+k: 95.000000% energy: 73
+DTD_EuroSAT_MNIST_RESISC45_Stanford_Cars_ - Mean: 91.2 +- 62.85076996362325
+k: 95.000000% energy: 57
+k: 95.000000% energy: 251
+k: 95.000000% energy: 90
+k: 95.000000% energy: 186
+k: 95.000000% energy: 111
+DTD_EuroSAT_MNIST_RESISC45_SUN397_ - Mean: 139.0 +- 97.49632370651847
+k: 95.000000% energy: 33
+k: 95.000000% energy: 86
+k: 95.000000% energy: 45
+k: 95.000000% energy: 68
+k: 95.000000% energy: 51
+DTD_EuroSAT_MNIST_RESISC45_SVHN_ - Mean: 56.6 +- 25.72672671888325
+k: 95.000000% energy: 53
+k: 95.000000% energy: 272
+k: 95.000000% energy: 92
+k: 95.000000% energy: 200
+k: 95.000000% energy: 117
+DTD_EuroSAT_MNIST_Stanford_Cars_SUN397_ - Mean: 146.8 +- 109.65165630425315
+k: 95.000000% energy: 27
+k: 95.000000% energy: 77
+k: 95.000000% energy: 31
+k: 95.000000% energy: 53
+k: 95.000000% energy: 35
+DTD_EuroSAT_MNIST_Stanford_Cars_SVHN_ - Mean: 44.6 +- 25.6517084023075
+k: 95.000000% energy: 34
+k: 95.000000% energy: 148
+k: 95.000000% energy: 52
+k: 95.000000% energy: 102
+k: 95.000000% energy: 59
+DTD_EuroSAT_MNIST_SUN397_SVHN_ - Mean: 79.0 +- 57.04902226719622
+k: 95.000000% energy: 332
+k: 95.000000% energy: 434
+k: 95.000000% energy: 369
+k: 95.000000% energy: 420
+k: 95.000000% energy: 392
+DTD_EuroSAT_RESISC45_Stanford_Cars_SUN397_ - Mean: 389.4 +- 50.60142614344238
+k: 95.000000% energy: 109
+k: 95.000000% energy: 125
+k: 95.000000% energy: 122
+k: 95.000000% energy: 116
+k: 95.000000% energy: 122
+DTD_EuroSAT_RESISC45_Stanford_Cars_SVHN_ - Mean: 118.8 +- 7.921388136969384
+k: 95.000000% energy: 185
+k: 95.000000% energy: 207
+k: 95.000000% energy: 200
+k: 95.000000% energy: 194
+k: 95.000000% energy: 200
+DTD_EuroSAT_RESISC45_SUN397_SVHN_ - Mean: 197.2 +- 10.216412584477695
+k: 95.000000% energy: 200
+k: 95.000000% energy: 227
+k: 95.000000% energy: 215
+k: 95.000000% energy: 211
+k: 95.000000% energy: 216
+DTD_EuroSAT_Stanford_Cars_SUN397_SVHN_ - Mean: 213.8 +- 12.083119720338317
+k: 95.000000% energy: 54
+k: 95.000000% energy: 140
+k: 95.000000% energy: 70
+k: 95.000000% energy: 109
+k: 95.000000% energy: 76
+DTD_GTSRB_MNIST_RESISC45_Stanford_Cars_ - Mean: 89.8 +- 42.80050202282793
+k: 95.000000% energy: 72
+k: 95.000000% energy: 212
+k: 95.000000% energy: 96
+k: 95.000000% energy: 163
+k: 95.000000% energy: 104
+DTD_GTSRB_MNIST_RESISC45_SUN397_ - Mean: 129.4 +- 70.80533834031806
+k: 95.000000% energy: 48
+k: 95.000000% energy: 92
+k: 95.000000% energy: 58
+k: 95.000000% energy: 78
+k: 95.000000% energy: 62
+DTD_GTSRB_MNIST_RESISC45_SVHN_ - Mean: 67.6 +- 21.60638072160694
+k: 95.000000% energy: 62
+k: 95.000000% energy: 222
+k: 95.000000% energy: 91
+k: 95.000000% energy: 167
+k: 95.000000% energy: 99
+DTD_GTSRB_MNIST_Stanford_Cars_SUN397_ - Mean: 128.2 +- 80.7625837241522
+k: 95.000000% energy: 39
+k: 95.000000% energy: 76
+k: 95.000000% energy: 44
+k: 95.000000% energy: 61
+k: 95.000000% energy: 48
+DTD_GTSRB_MNIST_Stanford_Cars_SVHN_ - Mean: 53.6 +- 18.55446560465746
+k: 95.000000% energy: 49
+k: 95.000000% energy: 135
+k: 95.000000% energy: 61
+k: 95.000000% energy: 99
+k: 95.000000% energy: 64
+DTD_GTSRB_MNIST_SUN397_SVHN_ - Mean: 81.6 +- 43.684697044091905
+k: 95.000000% energy: 310
+k: 95.000000% energy: 322
+k: 95.000000% energy: 324
+k: 95.000000% energy: 312
+k: 95.000000% energy: 297
+DTD_GTSRB_RESISC45_Stanford_Cars_SUN397_ - Mean: 313.0 +- 13.430649637263912
+k: 95.000000% energy: 125
+k: 95.000000% energy: 117
+k: 95.000000% energy: 127
+k: 95.000000% energy: 111
+k: 95.000000% energy: 115
+DTD_GTSRB_RESISC45_Stanford_Cars_SVHN_ - Mean: 119.0 +- 8.421374963984604
+k: 95.000000% energy: 197
+k: 95.000000% energy: 185
+k: 95.000000% energy: 199
+k: 95.000000% energy: 177
+k: 95.000000% energy: 181
+DTD_GTSRB_RESISC45_SUN397_SVHN_ - Mean: 187.8 +- 12.114976141876895
+k: 95.000000% energy: 207
+k: 95.000000% energy: 196
+k: 95.000000% energy: 208
+k: 95.000000% energy: 185
+k: 95.000000% energy: 189
+DTD_GTSRB_Stanford_Cars_SUN397_SVHN_ - Mean: 197.0 +- 12.87384633964541
+k: 95.000000% energy: 84
+k: 95.000000% energy: 302
+k: 95.000000% energy: 123
+k: 95.000000% energy: 227
+k: 95.000000% energy: 145
+DTD_MNIST_RESISC45_Stanford_Cars_SUN397_ - Mean: 176.2 +- 108.79768592506639
+k: 95.000000% energy: 33
+k: 95.000000% energy: 106
+k: 95.000000% energy: 47
+k: 95.000000% energy: 77
+k: 95.000000% energy: 53
+DTD_MNIST_RESISC45_Stanford_Cars_SVHN_ - Mean: 63.2 +- 35.668405775364576
+k: 95.000000% energy: 52
+k: 95.000000% energy: 175
+k: 95.000000% energy: 74
+k: 95.000000% energy: 124
+k: 95.000000% energy: 80
+DTD_MNIST_RESISC45_SUN397_SVHN_ - Mean: 101.0 +- 60.75278088892935
+k: 95.000000% energy: 42
+k: 95.000000% energy: 182
+k: 95.000000% energy: 68
+k: 95.000000% energy: 126
+k: 95.000000% energy: 74
+DTD_MNIST_Stanford_Cars_SUN397_SVHN_ - Mean: 98.4 +- 69.2755046113011
+k: 95.000000% energy: 277
+k: 95.000000% energy: 260
+k: 95.000000% energy: 270
+k: 95.000000% energy: 243
+k: 95.000000% energy: 259
+DTD_RESISC45_Stanford_Cars_SUN397_SVHN_ - Mean: 261.8 +- 15.983259228672352
+k: 95.000000% energy: 55
+k: 95.000000% energy: 130
+k: 95.000000% energy: 71
+k: 95.000000% energy: 106
+k: 95.000000% energy: 75
+EuroSAT_GTSRB_MNIST_RESISC45_Stanford_Cars_ - Mean: 87.4 +- 37.42128927111732
+k: 95.000000% energy: 67
+k: 95.000000% energy: 193
+k: 95.000000% energy: 90
+k: 95.000000% energy: 151
+k: 95.000000% energy: 96
+EuroSAT_GTSRB_MNIST_RESISC45_SUN397_ - Mean: 119.4 +- 63.837712570298066
+k: 95.000000% energy: 53
+k: 95.000000% energy: 92
+k: 95.000000% energy: 62
+k: 95.000000% energy: 81
+k: 95.000000% energy: 65
+EuroSAT_GTSRB_MNIST_RESISC45_SVHN_ - Mean: 70.6 +- 19.447011146497402
+k: 95.000000% energy: 58
+k: 95.000000% energy: 203
+k: 95.000000% energy: 83
+k: 95.000000% energy: 154
+k: 95.000000% energy: 90
+EuroSAT_GTSRB_MNIST_Stanford_Cars_SUN397_ - Mean: 117.6 +- 73.7960097693028
+k: 95.000000% energy: 46
+k: 95.000000% energy: 78
+k: 95.000000% energy: 51
+k: 95.000000% energy: 66
+k: 95.000000% energy: 53
+EuroSAT_GTSRB_MNIST_Stanford_Cars_SVHN_ - Mean: 58.8 +- 16.17502684723216
+k: 95.000000% energy: 52
+k: 95.000000% energy: 126
+k: 95.000000% energy: 63
+k: 95.000000% energy: 96
+k: 95.000000% energy: 65
+EuroSAT_GTSRB_MNIST_SUN397_SVHN_ - Mean: 80.4 +- 37.606228953094444
+k: 95.000000% energy: 227
+k: 95.000000% energy: 288
+k: 95.000000% energy: 262
+k: 95.000000% energy: 277
+k: 95.000000% energy: 250
+EuroSAT_GTSRB_RESISC45_Stanford_Cars_SUN397_ - Mean: 260.8 +- 29.532293668881948
+k: 95.000000% energy: 101
+k: 95.000000% energy: 110
+k: 95.000000% energy: 111
+k: 95.000000% energy: 107
+k: 95.000000% energy: 104
+EuroSAT_GTSRB_RESISC45_Stanford_Cars_SVHN_ - Mean: 106.6 +- 5.164486429523436
+k: 95.000000% energy: 153
+k: 95.000000% energy: 169
+k: 95.000000% energy: 169
+k: 95.000000% energy: 163
+k: 95.000000% energy: 157
+EuroSAT_GTSRB_RESISC45_SUN397_SVHN_ - Mean: 162.2 +- 8.884624336632953
+k: 95.000000% energy: 160
+k: 95.000000% energy: 179
+k: 95.000000% energy: 176
+k: 95.000000% energy: 171
+k: 95.000000% energy: 164
+EuroSAT_GTSRB_Stanford_Cars_SUN397_SVHN_ - Mean: 170.0 +- 9.89443390304092
+k: 95.000000% energy: 66
+k: 95.000000% energy: 269
+k: 95.000000% energy: 103
+k: 95.000000% energy: 203
+k: 95.000000% energy: 122
+EuroSAT_MNIST_RESISC45_Stanford_Cars_SUN397_ - Mean: 152.6 +- 101.9851441183778
+k: 95.000000% energy: 35
+k: 95.000000% energy: 97
+k: 95.000000% energy: 49
+k: 95.000000% energy: 75
+k: 95.000000% energy: 53
+EuroSAT_MNIST_RESISC45_Stanford_Cars_SVHN_ - Mean: 61.8 +- 30.24159271875503
+k: 95.000000% energy: 48
+k: 95.000000% energy: 157
+k: 95.000000% energy: 69
+k: 95.000000% energy: 114
+k: 95.000000% energy: 74
+EuroSAT_MNIST_RESISC45_SUN397_SVHN_ - Mean: 92.4 +- 53.75559108294877
+k: 95.000000% energy: 38
+k: 95.000000% energy: 164
+k: 95.000000% energy: 61
+k: 95.000000% energy: 116
+k: 95.000000% energy: 66
+EuroSAT_MNIST_Stanford_Cars_SUN397_SVHN_ - Mean: 89.0 +- 62.90961442057625
+k: 95.000000% energy: 203
+k: 95.000000% energy: 230
+k: 95.000000% energy: 218
+k: 95.000000% energy: 215
+k: 95.000000% energy: 216
+EuroSAT_RESISC45_Stanford_Cars_SUN397_SVHN_ - Mean: 216.4 +- 11.929024746951626
+k: 95.000000% energy: 79
+k: 95.000000% energy: 228
+k: 95.000000% energy: 107
+k: 95.000000% energy: 177
+k: 95.000000% energy: 112
+GTSRB_MNIST_RESISC45_Stanford_Cars_SUN397_ - Mean: 140.6 +- 75.28519179513142
+k: 95.000000% energy: 51
+k: 95.000000% energy: 100
+k: 95.000000% energy: 61
+k: 95.000000% energy: 83
+k: 95.000000% energy: 64
+GTSRB_MNIST_RESISC45_Stanford_Cars_SVHN_ - Mean: 71.8 +- 24.29032469304215
+k: 95.000000% energy: 64
+k: 95.000000% energy: 148
+k: 95.000000% energy: 81
+k: 95.000000% energy: 115
+k: 95.000000% energy: 82
+GTSRB_MNIST_RESISC45_SUN397_SVHN_ - Mean: 98.0 +- 41.60037675645131
+k: 95.000000% energy: 52
+k: 95.000000% energy: 149
+k: 95.000000% energy: 69
+k: 95.000000% energy: 110
+k: 95.000000% energy: 69
+GTSRB_MNIST_Stanford_Cars_SUN397_SVHN_ - Mean: 89.8 +- 48.9111606997662
+k: 95.000000% energy: 215
+k: 95.000000% energy: 205
+k: 95.000000% energy: 217
+k: 95.000000% energy: 195
+k: 95.000000% energy: 195
+GTSRB_RESISC45_Stanford_Cars_SUN397_SVHN_ - Mean: 205.4 +- 13.06995129583268
+k: 95.000000% energy: 61
+k: 95.000000% energy: 192
+k: 95.000000% energy: 86
+k: 95.000000% energy: 139
+k: 95.000000% energy: 89
+MNIST_RESISC45_Stanford_Cars_SUN397_SVHN_ - Mean: 113.4 +- 64.89164615602155
+k: 95.000000% energy: 58
+k: 95.000000% energy: 143
+k: 95.000000% energy: 75
+k: 95.000000% energy: 115
+k: 95.000000% energy: 82
+DTD_EuroSAT_GTSRB_MNIST_RESISC45_Stanford_Cars_ - Mean: 94.6 +- 42.295020047168094
+k: 95.000000% energy: 72
+k: 95.000000% energy: 204
+k: 95.000000% energy: 95
+k: 95.000000% energy: 160
+k: 95.000000% energy: 105
+DTD_EuroSAT_GTSRB_MNIST_RESISC45_SUN397_ - Mean: 127.2 +- 66.72370067827471
+k: 95.000000% energy: 54
+k: 95.000000% energy: 99
+k: 95.000000% energy: 65
+k: 95.000000% energy: 85
+k: 95.000000% energy: 69
+DTD_EuroSAT_GTSRB_MNIST_RESISC45_SVHN_ - Mean: 74.4 +- 21.960259168128715
+k: 95.000000% energy: 64
+k: 95.000000% energy: 215
+k: 95.000000% energy: 91
+k: 95.000000% energy: 166
+k: 95.000000% energy: 101
+DTD_EuroSAT_GTSRB_MNIST_Stanford_Cars_SUN397_ - Mean: 127.4 +- 76.55440084792085
+k: 95.000000% energy: 47
+k: 95.000000% energy: 87
+k: 95.000000% energy: 53
+k: 95.000000% energy: 71
+k: 95.000000% energy: 56
+DTD_EuroSAT_GTSRB_MNIST_Stanford_Cars_SVHN_ - Mean: 62.8 +- 20.067380031646294
+k: 95.000000% energy: 55
+k: 95.000000% energy: 138
+k: 95.000000% energy: 68
+k: 95.000000% energy: 105
+k: 95.000000% energy: 71
+DTD_EuroSAT_GTSRB_MNIST_SUN397_SVHN_ - Mean: 87.4 +- 41.947298608922125
+k: 95.000000% energy: 241
+k: 95.000000% energy: 300
+k: 95.000000% energy: 275
+k: 95.000000% energy: 290
+k: 95.000000% energy: 265
+DTD_EuroSAT_GTSRB_RESISC45_Stanford_Cars_SUN397_ - Mean: 274.2 +- 28.469056710183963
+k: 95.000000% energy: 113
+k: 95.000000% energy: 123
+k: 95.000000% energy: 124
+k: 95.000000% energy: 118
+k: 95.000000% energy: 117
+DTD_EuroSAT_GTSRB_RESISC45_Stanford_Cars_SVHN_ - Mean: 119.0 +- 5.621872857947338
+k: 95.000000% energy: 165
+k: 95.000000% energy: 181
+k: 95.000000% energy: 181
+k: 95.000000% energy: 174
+k: 95.000000% energy: 171
+DTD_EuroSAT_GTSRB_RESISC45_SUN397_SVHN_ - Mean: 174.4 +- 8.494288661893648
+k: 95.000000% energy: 173
+k: 95.000000% energy: 192
+k: 95.000000% energy: 189
+k: 95.000000% energy: 183
+k: 95.000000% energy: 179
+DTD_EuroSAT_GTSRB_Stanford_Cars_SUN397_SVHN_ - Mean: 183.2 +- 9.472521100221314
+k: 95.000000% energy: 74
+k: 95.000000% energy: 279
+k: 95.000000% energy: 112
+k: 95.000000% energy: 213
+k: 95.000000% energy: 134
+DTD_EuroSAT_MNIST_RESISC45_Stanford_Cars_SUN397_ - Mean: 162.4 +- 102.61058994107006
+k: 95.000000% energy: 39
+k: 95.000000% energy: 110
+k: 95.000000% energy: 54
+k: 95.000000% energy: 83
+k: 95.000000% energy: 60
+DTD_EuroSAT_MNIST_RESISC45_Stanford_Cars_SVHN_ - Mean: 69.2 +- 34.47043535632143
+k: 95.000000% energy: 53
+k: 95.000000% energy: 169
+k: 95.000000% energy: 75
+k: 95.000000% energy: 124
+k: 95.000000% energy: 82
+DTD_EuroSAT_MNIST_RESISC45_SUN397_SVHN_ - Mean: 100.6 +- 57.214982428570266
+k: 95.000000% energy: 44
+k: 95.000000% energy: 177
+k: 95.000000% energy: 70
+k: 95.000000% energy: 127
+k: 95.000000% energy: 77
+DTD_EuroSAT_MNIST_Stanford_Cars_SUN397_SVHN_ - Mean: 99.0 +- 65.75545862587359
+k: 95.000000% energy: 216
+k: 95.000000% energy: 242
+k: 95.000000% energy: 231
+k: 95.000000% energy: 227
+k: 95.000000% energy: 231
+DTD_EuroSAT_RESISC45_Stanford_Cars_SUN397_SVHN_ - Mean: 229.4 +- 11.601421636644687
+k: 95.000000% energy: 87
+k: 95.000000% energy: 239
+k: 95.000000% energy: 116
+k: 95.000000% energy: 187
+k: 95.000000% energy: 124
+DTD_GTSRB_MNIST_RESISC45_Stanford_Cars_SUN397_ - Mean: 150.6 +- 76.26182619197837
+k: 95.000000% energy: 54
+k: 95.000000% energy: 110
+k: 95.000000% energy: 66
+k: 95.000000% energy: 90
+k: 95.000000% energy: 69
+DTD_GTSRB_MNIST_RESISC45_Stanford_Cars_SVHN_ - Mean: 77.8 +- 27.547037086392535
+k: 95.000000% energy: 69
+k: 95.000000% energy: 159
+k: 95.000000% energy: 86
+k: 95.000000% energy: 123
+k: 95.000000% energy: 88
+DTD_GTSRB_MNIST_RESISC45_SUN397_SVHN_ - Mean: 105.0 +- 44.70852577048868
+k: 95.000000% energy: 58
+k: 95.000000% energy: 161
+k: 95.000000% energy: 77
+k: 95.000000% energy: 121
+k: 95.000000% energy: 78
+DTD_GTSRB_MNIST_Stanford_Cars_SUN397_SVHN_ - Mean: 99.0 +- 51.69707981374481
+k: 95.000000% energy: 228
+k: 95.000000% energy: 217
+k: 95.000000% energy: 229
+k: 95.000000% energy: 207
+k: 95.000000% energy: 210
+DTD_GTSRB_RESISC45_Stanford_Cars_SUN397_SVHN_ - Mean: 218.2 +- 12.521736643416375
+k: 95.000000% energy: 69
+k: 95.000000% energy: 203
+k: 95.000000% energy: 95
+k: 95.000000% energy: 149
+k: 95.000000% energy: 99
+DTD_MNIST_RESISC45_Stanford_Cars_SUN397_SVHN_ - Mean: 123.0 +- 66.14702016589683
+k: 95.000000% energy: 78
+k: 95.000000% energy: 220
+k: 95.000000% energy: 105
+k: 95.000000% energy: 174
+k: 95.000000% energy: 113
+EuroSAT_GTSRB_MNIST_RESISC45_Stanford_Cars_SUN397_ - Mean: 138.0 +- 71.6892965258084
+k: 95.000000% energy: 57
+k: 95.000000% energy: 107
+k: 95.000000% energy: 68
+k: 95.000000% energy: 90
+k: 95.000000% energy: 71
+EuroSAT_GTSRB_MNIST_RESISC45_Stanford_Cars_SVHN_ - Mean: 78.6 +- 24.624422962344283
+k: 95.000000% energy: 67
+k: 95.000000% energy: 148
+k: 95.000000% energy: 84
+k: 95.000000% energy: 118
+k: 95.000000% energy: 86
+EuroSAT_GTSRB_MNIST_RESISC45_SUN397_SVHN_ - Mean: 100.6 +- 40.07709790996299
+k: 95.000000% energy: 58
+k: 95.000000% energy: 151
+k: 95.000000% energy: 74
+k: 95.000000% energy: 115
+k: 95.000000% energy: 75
+EuroSAT_GTSRB_MNIST_Stanford_Cars_SUN397_SVHN_ - Mean: 94.6 +- 47.05726361035576
+k: 95.000000% energy: 180
+k: 95.000000% energy: 199
+k: 95.000000% energy: 197
+k: 95.000000% energy: 191
+k: 95.000000% energy: 184
+EuroSAT_GTSRB_RESISC45_Stanford_Cars_SUN397_SVHN_ - Mean: 190.2 +- 10.140678311229408
+k: 95.000000% energy: 60
+k: 95.000000% energy: 184
+k: 95.000000% energy: 85
+k: 95.000000% energy: 137
+k: 95.000000% energy: 90
+EuroSAT_MNIST_RESISC45_Stanford_Cars_SUN397_SVHN_ - Mean: 111.2 +- 61.21667957196827
+k: 95.000000% energy: 75
+k: 95.000000% energy: 172
+k: 95.000000% energy: 95
+k: 95.000000% energy: 135
+k: 95.000000% energy: 95
+GTSRB_MNIST_RESISC45_Stanford_Cars_SUN397_SVHN_ - Mean: 114.4 +- 48.27822112059826
+k: 95.000000% energy: 83
+k: 95.000000% energy: 231
+k: 95.000000% energy: 112
+k: 95.000000% energy: 183
+k: 95.000000% energy: 122
+DTD_EuroSAT_GTSRB_MNIST_RESISC45_Stanford_Cars_SUN397_ - Mean: 146.2 +- 74.22720969110085
+k: 95.000000% energy: 59
+k: 95.000000% energy: 116
+k: 95.000000% energy: 72
+k: 95.000000% energy: 96
+k: 95.000000% energy: 75
+DTD_EuroSAT_GTSRB_MNIST_RESISC45_Stanford_Cars_SVHN_ - Mean: 83.6 +- 27.88358260698854
+k: 95.000000% energy: 70
+k: 95.000000% energy: 158
+k: 95.000000% energy: 88
+k: 95.000000% energy: 126
+k: 95.000000% energy: 92
+DTD_EuroSAT_GTSRB_MNIST_RESISC45_SUN397_SVHN_ - Mean: 106.8 +- 43.53267602925355
+k: 95.000000% energy: 62
+k: 95.000000% energy: 162
+k: 95.000000% energy: 80
+k: 95.000000% energy: 125
+k: 95.000000% energy: 83
+DTD_EuroSAT_GTSRB_MNIST_Stanford_Cars_SUN397_SVHN_ - Mean: 102.4 +- 50.33412422773077
+k: 95.000000% energy: 192
+k: 95.000000% energy: 211
+k: 95.000000% energy: 208
+k: 95.000000% energy: 202
+k: 95.000000% energy: 197
+DTD_EuroSAT_GTSRB_RESISC45_Stanford_Cars_SUN397_SVHN_ - Mean: 202.0 +- 9.657879363935933
+k: 95.000000% energy: 66
+k: 95.000000% energy: 195
+k: 95.000000% energy: 92
+k: 95.000000% energy: 146
+k: 95.000000% energy: 99
+DTD_EuroSAT_MNIST_RESISC45_Stanford_Cars_SUN397_SVHN_ - Mean: 119.6 +- 63.437973432492555
+k: 95.000000% energy: 81
+k: 95.000000% energy: 183
+k: 95.000000% energy: 102
+k: 95.000000% energy: 143
+k: 95.000000% energy: 102
+DTD_GTSRB_MNIST_RESISC45_Stanford_Cars_SUN397_SVHN_ - Mean: 122.2 +- 50.599902715339354
+k: 95.000000% energy: 75
+k: 95.000000% energy: 171
+k: 95.000000% energy: 96
+k: 95.000000% energy: 136
+k: 95.000000% energy: 97
+EuroSAT_GTSRB_MNIST_RESISC45_Stanford_Cars_SUN397_SVHN_ - Mean: 115.0 +- 47.53319429030648
+k: 95.000000% energy: 80
+k: 95.000000% energy: 181
+k: 95.000000% energy: 102
+k: 95.000000% energy: 144
+k: 95.000000% energy: 104
+DTD_EuroSAT_GTSRB_MNIST_RESISC45_Stanford_Cars_SUN397_SVHN_ - Mean: 122.2 +- 49.87101366817329
